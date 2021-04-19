@@ -22,7 +22,7 @@ public class Controller {
     public String adicionarFacto(@RequestParam String fact){
         System.out.println("facto: "+fact);
         //Query de consulta
-        Query consult = new Query("consult('C://Users/joaog/Desktop/rest.service/src/main/java/prolog/res.pl').");
+        Query consult = new Query("consult('C://Users/joaog/Desktop/sbcBackend/src/main/java/prolog/res.pl').");
         System.out.println(consult.hasSolution());
         //Query de adicionar uma escolha
         Query query = new Query("escolher('"+fact+"').");
@@ -33,7 +33,7 @@ public class Controller {
     @GetMapping("/res")
     public String[] getResposta(){
         //Query de Consult
-        Query consult = new Query("consult('C://Users/joaog/Desktop/rest.service/src/main/java/prolog/res.pl').");
+        Query consult = new Query("consult('C://Users/joaog/Desktop/sbcBackend/src/main/java/prolog/res.pl').");
         System.out.println(consult.hasSolution());
         //Query da resposta
         Query query = new Query("resposta(P).");
