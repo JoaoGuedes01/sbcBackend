@@ -1,12 +1,10 @@
 package com.sbc.rest.service;
 
-import org.springframework.web.bind.annotation.GetMapping;
-import org.springframework.web.bind.annotation.PostMapping;
-import org.springframework.web.bind.annotation.RequestParam;
-import org.springframework.web.bind.annotation.RestController;
+import org.springframework.web.bind.annotation.*;
 import org.jpl7.*;
 
 import java.util.ArrayList;
+import java.util.HashMap;
 import java.util.Map;
 
 
@@ -19,15 +17,20 @@ public class Controller {
     }
 
     @GetMapping("/assert")
-    public String adicionarFacto(@RequestParam String fact){
-        System.out.println("facto: "+fact);
+    public Map<String,String> adicionarFacto(@RequestParam String fact){
+        System.out.println("facto -> "+fact);
         //Query de consulta
         Query consult = new Query("consult('C://Users/joaog/Desktop/sbcBackend/src/main/java/prolog/res.pl').");
+        System.out.print("consult()-> ");
         System.out.println(consult.hasSolution());
         //Query de adicionar uma escolha
         Query query = new Query("escolher('"+fact+"').");
+        System.out.print("escolher() -> ");
         System.out.println(query.hasSolution());
-        return "Facto adicionado";
+        HashMap<String, String> map = new HashMap<>();
+        map.put("status", "200");
+        map.put("msg", "Facto adicionado");
+        return map;
     }
 
     @GetMapping("/res")
