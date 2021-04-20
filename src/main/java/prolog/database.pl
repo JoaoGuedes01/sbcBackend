@@ -125,25 +125,37 @@ solucao('snacks2',[     ['\n Papas de aveia
                           \n R. Dom Frei Caetano Brandão 61 \n']
                        ]).
 
-solucao('dinner1',[     ['\n Salmão Grelhado
-                          \n descricao
-                          \n preco
-                          \n fotoPrato
-                          \n restaurante1
-                          \n foto1
-                          \n restaurante2
-                          \n foto2
-                          \n restaurante3
-                          \n foto3'],
-                        ['\n Robalo no forno
-                          \n descricao
-                          \n preco
-                          \n fotoPrato
-                          \n restaurante1
-                          \n foto1
-                          \n restaurante2
-                          \n foto2
-                          \n restaurante3
-                          \n foto3 '
+solucao('d1',[     ['\n Sopa de lentilha
+                          \n A sopa de lentilhas é um prato típico da culinária do Oriente Médio, e pode ser composta por diferentes variedades de lentilha, o que permite uma grande gama de possibilidades para a sopa.
+                          \n 12-16
+                          \n https://www.acasaencantada.com.br/wp-content/uploads/2017/08/receita-de-sopa-de-lentilha-vermelha2-600x600.jpg
+                          \n Shanti - Restaurante Vegetariano | Vegano
+                          \n https://revistaspot.pt/wp-content/uploads/2019/09/shanti-2.jpg
+                          \n 4.6
+                          \n R. Nova de Santa Cruz 21 A
+                          \n Anjo Verde Lda
+                          \n https://media-cdn.tripadvisor.com/media/photo-s/06/85/5d/87/mesas.jpg
+                          \n 4.4
+                          \n Largo da Praça Velha 21
+                          \n Gosto Superior
+                          \n https://www.boaescolha.pt/wp-content/uploads/2018/11/Gosto-Superior-950x556.jpg
+                          \n 4.7
+                          \n Praça Mouzinho de Albuquerque 29 \n'],
+                        ['\n Ensopado de grão de bico
+                          \n Para um jantar nutritivo, coma um Ensopado de grão de bico!
+                          \n 10-14
+                          \n https://cdn.panelinha.com.br/receita/1615317909602-CP-2021-19-02_7582_receita_post.jpg
+                          \n Anjo Verde Lda
+                          \n https://media-cdn.tripadvisor.com/media/photo-s/06/85/5d/87/mesas.jpg
+                          \n 4.4
+                          \n Largo da Praça Velha 21
+                          \n Pingo Doce
+                          \n https://www.correiodominho.pt/images/106940_800x800.jpg
+                          \n 4.5
+                          \n Supermercados 
+                          \n TumattoLab253
+                          \n https://lh5.googleusercontent.com/p/AF1QipMM2jabyHDpFgubu5pgdehfYIJd08tzxQXViBt8=w408-h306-k-no
+                          \n 4.3
+                          \n Av. Dr. Francisco Pires Gonçalves 40 \n'
                         ]
                        ]).
