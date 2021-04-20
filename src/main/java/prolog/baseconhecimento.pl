@@ -23,27 +23,40 @@ if 'breakfast' and 'pesado' and 'piscivoro' then 'breakfast1'.
 if 'breakfast' and 'pesado' and 'carnivoro' then 'breakfast1'.
 if 'breakfast' and 'pesado' and 'ww' then 'breakfast1'.
 
-if 'lanche' and 'leve' and 'mediterranica' then 'snacks1'.
-if 'lanche' and 'leve' and 'vegan' then 'snacks'.
-if 'lanche' and 'leve' and 'vege' then 'snacks1'.
-if 'lanche' and 'leve' and 'fastfood' then 'snacks1'.
-if 'lanche' and 'leve' and 'piscivoro' then 'snacks'.
-if 'lanche' and 'leve' and 'carnivoro' then 'snacks'.
-if 'lanche' and 'leve' and 'ww' then 'snacks'.
-if 'lanche' and 'equilibrado' and 'mediterranica' then 'snacks'.
-if 'lanche' and 'equilibrado' and 'vegan' then 'snacks'.
-if 'lanche' and 'equilibrado' and 'vegetariano' then 'snacks'.
-if 'lanche' and 'equilibrado' and 'fastfood' then 'snacks'.
-if 'lanche' and 'equilibrado' and 'piscivoro' then 'snacks'.
-if 'lanche' and 'equilibrado' and 'carnivoro' then 'snacks'.
-if 'lanche' and 'equilibrado' and 'ww' then 'snacks'.
-if 'lanche' and 'pesado' and 'mediterranica' then 'snacks'.
-if 'lanche' and 'pesado' and 'vegan' then 'snacks'.
-if 'lanche' and 'pesado' and 'vegetariano' then 'snacks'.
-if 'lanche' and 'pesado' and 'fastfood' then 'snacks'.
-if 'lanche' and 'pesado' and 'piscivoro' then 'snacks'.
-if 'lanche' and 'pesado' and 'carnivoro' then 'snacks'.
-if 'lanche' and 'pesado' and 'ww' then 'snacks'.
+% Lanche %
+if 'lanche' then 'snack'.
+
+% Opções de lanche %
+if 'snack' and 'leve' then 'lancheleve'.
+if 'snack' and 'equilibrado' then 'lancheequilibrado'.
+if 'snack' and 'pesado' then 'lanchepesado'.
+
+% Lanche leve %
+if 'lancheleve' and 'vegan' then 'snacks2'.
+if 'lancheleve' and 'vege' then 'snack1'.
+if 'lancheleve' and 'carne' then 'snack1'.
+if 'lancheleve' and 'medite' then 'snack1'.
+if 'lancheleve' and 'peixe' then 'snack1'.
+if 'lancheleve' and 'fastfood' then 'snack1'.
+if 'lancheleve' and 'ww' then 'snack1'.
+
+% Lanche equilibrado %
+if 'lancheequilibrado' and 'vegan' then 'snacks2'.
+if 'lancheequilibrado' and 'vege' then 'snack1'.
+if 'lancheequilibrado' and 'carne' then 'snack1'.
+if 'lancheequilibrado' and 'medite' then 'snack1'.
+if 'lancheequilibrado' and 'peixe' then 'snack1'.
+if 'lancheequilibrado' and 'fastfood' then 'snack1'.
+if 'lancheequilibrado' and 'ww' then 'snack1'.
+
+% Lanche pesado %
+if 'lanchepesado' and 'vegan' then 'snacks2'.
+if 'lanchepesado' and 'vege' then 'snack1'.
+if 'lanchepesado' and 'carne' then 'snack1'.
+if 'lanchepesado' and 'medite' then 'snack1'.
+if 'lanchepesado' and 'peixe' then 'snack1'.
+if 'lanchepesado' and 'fastfood' then 'snack1'.
+if 'lanchepesado' and 'ww' then 'snack1'.
 
 
 
