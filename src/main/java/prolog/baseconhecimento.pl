@@ -46,7 +46,7 @@ if 'lanche' and 'pesado' and 'carnivoro' then 'snacks'.
 if 'lanche' and 'pesado' and 'ww' then 'snacks'.
 
 
-% Guedes %
+
 % Almoço %
 if 'almoco' then 'lunch'.
 
