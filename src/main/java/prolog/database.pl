@@ -64,41 +64,65 @@ solucao('snacks1',[     ['\n Waffles
                           \n https://tatyanaseverydayfood.com/wp-content/uploads/2020/09/Cinnamon-Waffles-with-Fruit.jpg
                           \n Myiced
                           \n https://d1bvpoagx8hqbg.cloudfront.net/originals/my-iced-braga-393a60dee5f80446b9f799b28dc37d2a.jpg
+                          \n 4.4
+                          \n Pça Santa Barbara 3
                           \n Sabores Gelados
                           \n https://www.evasoes.pt/files/2019/04/34302027_WEB_48877967_GI12092017CRISTIANAMILHAO00026_WEB-960x640_c.jpg
+                          \n 4.0
+                          \n R. do Souto Nº141/ E Largo Barão S.Martinho
                           \n Nut
-                          \n https://lh5.googleusercontent.com/p/AF1QipODHWIt7XXS9mYI8hBIDnn8QlDR1a_ZJXG2UUNc=w800-h800-n-k-no \n'],
+                          \n https://lh5.googleusercontent.com/p/AF1QipODHWIt7XXS9mYI8hBIDnn8QlDR1a_ZJXG2UUNc=w800-h800-n-k-no
+                          \n 4.2
+                          \n R. do Souto 135 \n'],
                         ['\n Panquecas
                           \n As panquecas são um doce delicioso, que pode ser comida simples ou com diversas coberturas, como doces de fruta, chocolate ou gelado.
                           \n 3€-5€
                           \n https://ncultura.pt/wp-content/uploads/2020/08/whole-grain-pancake-stack.jpg
                           \n Nordico
                           \n https://webraga.pt/wp-content/uploads/2018/06/We-Braga-nordico-coffeeshop01-min.jpg
+                          \n 4.6
+                          \n R. do Anjo 90A
                           \n Nut
                           \n https://lh5.googleusercontent.com/p/AF1QipODHWIt7XXS9mYI8hBIDnn8QlDR1a_ZJXG2UUNc=w800-h800-n-k-no
+                          \n 4.2
+                          \n R. do Souto 135
                           \n APE Coffee
-                          \n https://webraga.pt/wp-content/uploads/2017/07/we-braga-ape-coffee-11.jpg \n']
+                          \n https://webraga.pt/wp-content/uploads/2017/07/we-braga-ape-coffee-11.jpg
+                          \n 4.7
+                          \n R. Dom Frei Caetano Brandão 61 \n']
                        ]).
 solucao('snacks2',[     ['\n Papas de aveia
                           \n As papas de aveia são uma excelente opção para um lanche saudável! 
                           \n 2-5
                           \n https://cdn.vidaativa.pt/uploads/2020/07/papas-de-aveia-no-forno-com-coco.jpg
-                          \n Continente
-                          \n https://s3.eu-central-1.amazonaws.com/uberall-userpics-prod/495042/medium_m6zXBWR5p7.jpg
+                          \n APE Coffee
+                          \n https://webraga.pt/wp-content/uploads/2017/07/we-braga-ape-coffee-11.jpg
+                          \n 4.7
+                          \n R. Dom Frei Caetano Brandão 61
                           \n O AMOR vive na Cozinha
                           \n https://revistaspot.pt/wp-content/uploads/2019/09/o-amor-vive-na-cozinha-1.jpg
-                          \n Pingo Doce
-                          \n https://www.correiodominho.pt/images/106940_800x800.jpg \n'],
+                          \n 4.6
+                          \n R. Nova de Santa Cruz 63
+                          \n Nordico
+                          \n https://webraga.pt/wp-content/uploads/2018/06/We-Braga-nordico-coffeeshop01-min.jpg
+                          \n 4.6
+                          \n R. do Anjo 90A \n'],
                         ['\n Pão com manteiga de amendoim
                           \n Para um lanche proteico, coma um pão de manteiga de amendoim!
                           \n 2-3
                           \n https://www.loveat.pt/wordpress/wp-content/uploads/2016/10/peanut-butter-toast.jpg
-                          \n Continente
-                          \n https://s3.eu-central-1.amazonaws.com/uberall-userpics-prod/495042/medium_m6zXBWR5p7.jpg
+                          \n Nordico
+                          \n https://webraga.pt/wp-content/uploads/2018/06/We-Braga-nordico-coffeeshop01-min.jpg
+                          \n 4.6
+                          \n R. do Anjo 90A
                           \n Pingo Doce
                           \n https://www.correiodominho.pt/images/106940_800x800.jpg
-                          \n minipreço
-                          \n https://maiscarreira.pt/wp-content/uploads/2020/12/minipreco-2.jpg \n']
+                          \n 4.5
+                          \n Supermercados 
+                          \n APE Coffee
+                          \n https://webraga.pt/wp-content/uploads/2017/07/we-braga-ape-coffee-11.jpg
+                          \n 4.7
+                          \n R. Dom Frei Caetano Brandão 61 \n']
                        ]).
 
 solucao('dinner1',[     ['\n Salmão Grelhado
