@@ -1,24 +1,37 @@
 % Pequeno almoço
-solucao('breakfast1',[  ['\n Panquecas
-                          \n descricao
-                          \n preco
-                          \n fotoPrato
-                          \n restaurante1
-                          \n foto1
-                          \n restaurante2
-                          \n foto2
-                          \n restaurante3
-                          \n foto3'],
-                        ['\n Waffles
-                          \n descricao
-                          \n preco
-                          \n fotoPrato
-                          \n restaurante1
-                          \n foto1
-                          \n restaurante2
-                          \n foto2
-                          \n restaurante3
-                          \n foto3\n '
+% Leve Vegan %
+solucao('breakfast1',[      ['\n Salada de frutas e sumo natural
+                          \n Uma salada de frutas é tudo o que precisas para iniciar o dia com energia!
+                          \n 1 - 5
+                          \n https://www.livingwellspendingless.com/wp-content/uploads/2020/04/Fresh-Fruit-Salad-with-Honey-Lemon-Mint-Syrup_-Horizontal1.jpg
+                          \n Colinatrum
+                          \n https://webraga.pt/wp-content/uploads/2018/10/we-braga-brunch-3.jpg
+                          \n 4.0
+                          \n R. Damião de Góis 11
+                          \n Continente
+                          \n https://fastly.4sqi.net/img/general/width960/398869057_XhG73TQqyti9vkUBUvqLCCFl6LK-uTvxfvn3TglH1Ak.png
+                          \n 4.1
+                          \n Quinta das Portas, R. de Abraão nº120
+                          \n Mercadona
+                          \n https://globalpav.pt/wp-content/uploads/2020/03/IMG_0672.jpg
+                          \n 4.5
+                          \n Av. Dr. António Palha 13 \n'],
+                        ['\n Tostas com abacate
+                          \n Crocante e saudavel! O que podia ser melhor?
+                          \n 1 - 6
+                          \n https://c6.quickcachr.fotos.sapo.pt/i/Ga91766d6/21689169_uByBZ.jpeg
+                          \n Nordico
+                          \n https://webraga.pt/wp-content/uploads/2018/06/We-Braga-nordico-coffeeshop01-min.jpg
+                          \n 4.6
+                          \n R. do Anjo 90A 
+                          \n Colinatrum
+                          \n https://webraga.pt/wp-content/uploads/2018/10/we-braga-brunch-3.jpg
+                          \n 4.0
+                          \n R. Damião de Góis 11
+                          \n Pausa | Cafetaria
+                          \n https://webraga.pt/wp-content/uploads/2018/10/we-braga-brunch-4.jpg
+                          \n 4.6
+                          \n Praça Conde de Agrolongo, 123 \n'
                         ]
                        ]).
 % Almoço
