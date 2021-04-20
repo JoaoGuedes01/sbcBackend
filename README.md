@@ -33,6 +33,7 @@ certainty.pl & proof.pl     -> Código fornecido pelo professor que torna possí
 ```
 Para mais informação sobre Prolog visite https://www.swi-prolog.org/
 Para mais informação sobre Spring visite https://spring.io/guides/gs/spring-boot/
+Para mais informação sobre Nodejs visite https://nodejs.org/en/
 ```
 ## Repositório Frontend: 
 https://github.com/JoaoGuedes01/sbcFrontend
