@@ -1,27 +1,40 @@
 
 if 'manelcheiramal' then 'breakfast1'.
 
-if 'breakfast' and 'leve' and 'mediterranica' then 'breakfast1'.
-if 'breakfast' and 'leve' and 'vegan' then 'breakfast1'.
-if 'breakfast' and 'leve' and 'vegetariano' then 'breakfast1'.
-if 'breakfast' and 'leve' and 'fastfood' then 'breakfast1'.
-if 'breakfast' and 'leve' and 'piscivoro' then 'breakfast1'.
-if 'breakfast' and 'leve' and 'carnivoro' then 'breakfast1'.
-if 'breakfast' and 'leve' and 'ww' then 'breakfast1'.
-if 'breakfast' and 'equilibrado' and 'mediterranica' then 'breakfast1'.
-if 'breakfast' and 'equilibrado' and 'vegan' then 'breakfast1'.
-if 'breakfast' and 'equilibrado' and 'vegetariano' then 'breakfast1'.
-if 'breakfast' and 'equilibrado' and 'fastfood' then 'breakfast1'.
-if 'breakfast' and 'equilibrado' and 'piscivoro' then 'breakfast1'.
-if 'breakfast' and 'equilibrado' and 'carnivoro' then 'breakfast1'.
-if 'breakfast' and 'equilibrado' and 'ww' then 'breakfast1'.
-if 'breakfast' and 'pesado' and 'mediterranica' then 'breakfast1'.
-if 'breakfast' and 'pesado' and 'vegan' then 'breakfast1'.
-if 'breakfast' and 'pesado' and 'vegetariano' then 'breakfast1'.
-if 'breakfast' and 'pesado' and 'fastfood' then 'breakfast1'.
-if 'breakfast' and 'pesado' and 'piscivoro' then 'breakfast1'.
-if 'breakfast' and 'pesado' and 'carnivoro' then 'breakfast1'.
-if 'breakfast' and 'pesado' and 'ww' then 'breakfast1'.
+% Pequeno almoco %
+if 'palmoco' then 'breakfast'.
+
+% Opções de Pequeno almoco %
+if 'breakfast' and 'leve' then 'palmocoleve'.
+if 'breakfast' and 'equilibrado' then 'palmocoequilibrado'.
+if 'breakfast' and 'pesado' then 'palmocopesado'.
+
+% Pequeno almoco leve %
+if 'palmocoleve' and 'vegan' then 'breakfast1'.
+if 'palmocoleve' and 'vege' then 'breakfast1'.
+if 'palmocoleve' and 'carne' then 'breakfast1'.
+if 'palmocoleve' and 'medite' then 'breakfast1'.
+if 'palmocoleve' and 'peixe' then 'breakfast1'.
+if 'palmocoleve' and 'fastfood' then 'breakfast1'.
+if 'palmocoleve' and 'ww' then 'breakfast1'.
+
+% Pequeno almoco equilibrado %
+if 'palmocoequilibrado' and 'vegan' then 'breakfast1'.
+if 'palmocoequilibrado' and 'vege' then 'breakfast1'.
+if 'palmocoequilibrado' and 'carne' then 'breakfast1'.
+if 'palmocoequilibrado' and 'medite' then 'breakfast1'.
+if 'palmocoequilibrado' and 'peixe' then 'breakfast1'.
+if 'palmocoequilibrado' and 'fastfood' then 'breakfast1'.
+if 'palmocoequilibrado' and 'ww' then 'breakfast1'.
+
+% Pequeno almoco pesado %
+if 'palmocopesado' and 'vegan' then 'breakfast1'.
+if 'palmocopesado' and 'vege' then 'breakfast1'.
+if 'palmocopesado' and 'carne' then 'breakfast1'.
+if 'palmocopesado' and 'medite' then 'breakfast1'.
+if 'palmocopesado' and 'peixe' then 'breakfast1'.
+if 'palmocopesado' and 'fastfood' then 'breakfast1'.
+if 'palmocopesado' and 'ww' then 'breakfast1'.
 
 % Lanche %
 if 'lanche' then 'snack'.
