@@ -95,3 +95,38 @@ if 'almocopesado' and 'peixe' then 'lunch19'.
 if 'almocopesado' and 'fastfood' then 'lunch20'.
 if 'almocopesado' and 'ww' then 'lunch21'.
 
+
+% Jantar %
+if 'jantar' then 'dinner'.
+
+% Opções de Jantar %
+if 'dinner' and 'leve' then 'jantarleve'.
+if 'dinner' and 'equilibrado' then 'jantarequilibrado'.
+if 'dinner' and 'pesado' then 'jantarpesado'.
+
+% Jantar leve %
+if 'jantarleve' and 'vegan' then 'd1'.
+if 'jantarleve' and 'vege' then 'd2'.
+if 'jantarleve' and 'carne' then 'd3'.
+if 'jantarleve' and 'medite' then 'd4'.
+if 'jantarleve' and 'peixe' then 'd5'.
+if 'jantarleve' and 'fastfood' then 'd6'.
+if 'jantarleve' and 'ww' then 'd7'.
+
+% Jantar equilibrado %
+if 'jantarequilibrado' and 'vegan' then 'd8'.
+if 'jantarequilibrado' and 'vege' then 'd9'.
+if 'jantarequilibrado' and 'carne' then 'd10'.
+if 'jantarequilibrado' and 'medite' then 'd11'.
+if 'jantarequilibrado' and 'peixe' then 'd12'.
+if 'jantarequilibrado' and 'fastfood' then 'd13'.
+if 'jantarequilibrado' and 'ww' then 'd14'.
+
+% Jantar pesado %
+if 'jantarpesado' and 'vegan' then 'd15'.
+if 'jantarpesado' and 'vege' then 'd16'.
+if 'jantarpesado' and 'carne' then 'd17'.
+if 'jantarpesado' and 'medite' then 'd18'.
+if 'jantarpesado' and 'peixe' then 'd19'.
+if 'jantarpesado' and 'fastfood' then 'd20'.
+if 'jantarpesado' and 'ww' then 'd21'.
