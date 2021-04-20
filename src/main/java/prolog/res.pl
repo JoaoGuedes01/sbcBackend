@@ -3,6 +3,8 @@
 
 escolher(X) :- assert(fact(X)).
 
+apagarFactos(X) :- retractall(fact(X)).
+
 res(Y):- fact(X), solucao(X,Y).
 res(_).
 

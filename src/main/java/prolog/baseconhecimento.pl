@@ -1,7 +1,6 @@
 
 if 'manelcheiramal' then 'breakfast1'.
 
-if 'almoco' and 'equilibrado' and 'vege' then 'lunch1'.
 if 'breakfast' and 'leve' and 'mediterranica' then 'breakfast1'.
 if 'breakfast' and 'leve' and 'vegan' then 'breakfast1'.
 if 'breakfast' and 'leve' and 'vegetariano' then 'breakfast1'.
@@ -47,10 +46,39 @@ if 'lanche' and 'pesado' and 'carnivoro' then 'snacks'.
 if 'lanche' and 'pesado' and 'ww' then 'snacks'.
 
 
-if 'pqal' then 'breakfast'.
+% Guedes %
+% Almoço %
+if 'almoco' then 'lunch'.
 
-if 'breakfast' and 'leve' then 'breakfast1'.
+% Opções de almoço %
+if 'lunch' and 'leve' then 'almocoleve'.
+if 'lunch' and 'equilibrado' then 'almocoequilibrado'.
+if 'lunch' and 'pesado' then 'almocopesado'.
 
-if 'breakfast' and 'equilibrado' then 'breakfast2'.
+% Almoço leve %
+if 'almocoleve' and 'vegan' then 'lunch1'.
+if 'almocoleve' and 'vege' then 'lunch2'.
+if 'almocoleve' and 'carne' then 'lunch3'.
+if 'almocoleve' and 'medite' then 'lunch4'.
+if 'almocoleve' and 'peixe' then 'lunch5'.
+if 'almocoleve' and 'fastfood' then 'lunch6'.
+if 'almocoleve' and 'ww' then 'lunch7'.
 
-if 'breakfast' and 'equilibrado' then 'breakfast2'.
+% Almoço equilibrado %
+if 'almocoequilibrado' and 'vegan' then 'lunch8'.
+if 'almocoequilibrado' and 'vege' then 'lunch9'.
+if 'almocoequilibrado' and 'carne' then 'lunch10'.
+if 'almocoequilibrado' and 'medite' then 'lunch11'.
+if 'almocoequilibrado' and 'peixe' then 'lunch12'.
+if 'almocoequilibrado' and 'fastfood' then 'lunch13'.
+if 'almocoequilibrado' and 'ww' then 'lunch14'.
+
+% Almoço pesado %
+if 'almocopesado' and 'vegan' then 'lunch15'.
+if 'almocopesado' and 'vege' then 'lunch16'.
+if 'almocopesado' and 'carne' then 'lunch17'.
+if 'almocopesado' and 'medite' then 'lunch18'.
+if 'almocopesado' and 'peixe' then 'lunch19'.
+if 'almocopesado' and 'fastfood' then 'lunch20'.
+if 'almocopesado' and 'ww' then 'lunch21'.
+

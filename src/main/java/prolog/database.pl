@@ -22,26 +22,39 @@ solucao('breakfast1',[  ['\n Panquecas
                         ]
                        ]).
 % Almoço
-solucao('lunch1',[      ['\n Francesinha
-                          \n descricao
-                          \n preco
-                          \n fotoPrato
-                          \n restaurante1
-                          \n foto1
-                          \n restaurante2
-                          \n foto2
-                          \n restaurante3
-                          \n foto3\n'],
-                        ['\n Prego no prato
-                          \n descricao
-                          \n preco
-                          \n fotoPrato
-                          \n restaurante1
-                          \n foto1
-                          \n restaurante2
-                          \n foto2
-                          \n restaurante3
-                          \n foto3\n '
+% Leve Vegan %
+solucao('lunch1',[      ['\n Salada de massa e ervas vegetais
+                          \n Esta salada de massa de ervas vegetais sem glúten é feita com vegetais frescos e vinaigrette de erva de limão. Perfeito para qualquer momento do ano e faz uma salada saudável e corativa!
+                          \n 10 - 15
+                          \n https://149366112.v2.pressablecdn.com/wp-content/uploads/2017/05/garden-picnic-pasta-with-veggies-herbs-and-orange-miso-tahini-dressing.jpg
+                          \n Hibiscus
+                          \n https://revistaspot.pt/wp-content/uploads/2020/09/hibiscus-revista-spot-ananas4-2.jpg
+                          \n 4.6
+                          \n Portugal, Largo de São Francisco 32
+                          \n UniVegetariano
+                          \n https://images.adsttc.com/media/images/5ab9/3634/f197/cc6e/5400/00b7/newsletter/0376.jpg?1522087455
+                          \n 4.9
+                          \n R. Nova de Santa Cruz 63
+                          \n Shanti - Restaurante Vegetariano | Vegano
+                          \n https://revistaspot.pt/wp-content/uploads/2019/09/shanti-2.jpg
+                          \n 4.6
+                          \n R. Nova de Santa Cruz 21 A \n'],
+                        ['\n Salada de batata doce picante
+                          \n Esta salada de batata doce leva o almoço a um nível totalmente novo. Deixe sua lancheira orgulhosa novamente!
+                          \n 10 - 15
+                          \n https://lh3.googleusercontent.com/74i1dcRfyeuU3oJ4ny6_fS4hWtwy-1KuKdx2OVNR3bA326LJK7FppMo4TZZX16LsCbOZUpI1NJ6yRWM6g3skFQ=w1280-h720-c-rj-v1-e365
+                          \n Hibiscus
+                          \n https://revistaspot.pt/wp-content/uploads/2020/09/hibiscus-revista-spot-ananas4-2.jpg
+                          \n 4.6
+                          \n Portugal, Largo de São Francisco 32
+                          \n UniVegetariano
+                          \n https://images.adsttc.com/media/images/5ab9/3634/f197/cc6e/5400/00b7/newsletter/0376.jpg?1522087455
+                          \n 4.9
+                          \n R. Nova de Santa Cruz 63
+                          \n Shanti - Restaurante Vegetariano | Vegano
+                          \n https://revistaspot.pt/wp-content/uploads/2019/09/shanti-2.jpg
+                          \n 4.6
+                          \n R. Nova de Santa Cruz 21 A \n'
                         ]
                        ]).
 
