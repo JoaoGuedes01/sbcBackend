@@ -1,5 +1,5 @@
 
-if 'manelcheiramal' then 'breakfast1'.
+if 'teste' then 'teste1'.
 
 % Pequeno almoco %
 if 'palmoco' then 'breakfast'.

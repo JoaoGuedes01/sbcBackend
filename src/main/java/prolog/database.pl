@@ -1,4 +1,94 @@
-% Pequeno almoço
+% teste %
+solucao('teste1',['\n Prato1
+                          \n Descricao
+                          \n 1 - 5
+                          \n https://www.livingwellspendingless.com/wp-content/uploads/2020/04/Fresh-Fruit-Salad-with-Honey-Lemon-Mint-Syrup_-Horizontal1.jpg
+                          \n 100
+                          \n Restaurante1Prato1
+                          \n https://webraga.pt/wp-content/uploads/2018/10/we-braga-brunch-3.jpg
+                          \n 4.0
+                          \n Restaurante2Prato1
+                          \n Continente
+                          \n https://fastly.4sqi.net/img/general/width960/398869057_XhG73TQqyti9vkUBUvqLCCFl6LK-uTvxfvn3TglH1Ak.png
+                          \n 4.1
+                          \n Restaurante3Prato1
+                          \n Mercadona
+                          \n https://globalpav.pt/wp-content/uploads/2020/03/IMG_0672.jpg
+                          \n 4.5
+                          \n Av. Dr. António Palha 13 \n']).
+solucao('teste1',['\n Prato2
+                          \n Descricao
+                          \n 1 - 5
+                          \n https://www.livingwellspendingless.com/wp-content/uploads/2020/04/Fresh-Fruit-Salad-with-Honey-Lemon-Mint-Syrup_-Horizontal1.jpg
+                          \n 100
+                          \n Restaurante1Prato2
+                          \n https://webraga.pt/wp-content/uploads/2018/10/we-braga-brunch-3.jpg
+                          \n 4.0
+                          \n Restaurante2Prato2
+                          \n Continente
+                          \n https://fastly.4sqi.net/img/general/width960/398869057_XhG73TQqyti9vkUBUvqLCCFl6LK-uTvxfvn3TglH1Ak.png
+                          \n 4.1
+                          \n Restaurante3Prato2
+                          \n Mercadona
+                          \n https://globalpav.pt/wp-content/uploads/2020/03/IMG_0672.jpg
+                          \n 4.5
+                          \n Av. Dr. António Palha 13 \n']).
+solucao('teste1',[      '\n Prato3
+                          \n Descricao
+                          \n 1 - 5
+                          \n https://www.livingwellspendingless.com/wp-content/uploads/2020/04/Fresh-Fruit-Salad-with-Honey-Lemon-Mint-Syrup_-Horizontal1.jpg
+                          \n 100
+                          \n Restaurante1Prato3
+                          \n https://webraga.pt/wp-content/uploads/2018/10/we-braga-brunch-3.jpg
+                          \n 4.0
+                          \n Restaurante2Prato3
+                          \n Continente
+                          \n https://fastly.4sqi.net/img/general/width960/398869057_XhG73TQqyti9vkUBUvqLCCFl6LK-uTvxfvn3TglH1Ak.png
+                          \n 4.1
+                          \n Restaurante3Prato3
+                          \n Mercadona
+                          \n https://globalpav.pt/wp-content/uploads/2020/03/IMG_0672.jpg
+                          \n 4.5
+                          \n Av. Dr. António Palha 13 \n']).
+solucao('teste1',[      '\n Prato4
+                          \n Descricao
+                          \n 1 - 5
+                          \n https://www.livingwellspendingless.com/wp-content/uploads/2020/04/Fresh-Fruit-Salad-with-Honey-Lemon-Mint-Syrup_-Horizontal1.jpg
+                          \n 100
+                          \n Restaurante1Prato4
+                          \n https://webraga.pt/wp-content/uploads/2018/10/we-braga-brunch-3.jpg
+                          \n 4.0
+                          \n Restaurante2Prato4
+                          \n Continente
+                          \n https://fastly.4sqi.net/img/general/width960/398869057_XhG73TQqyti9vkUBUvqLCCFl6LK-uTvxfvn3TglH1Ak.png
+                          \n 4.1
+                          \n Restaurante3Prato4
+                          \n Mercadona
+                          \n https://globalpav.pt/wp-content/uploads/2020/03/IMG_0672.jpg
+                          \n 4.5
+                          \n Av. Dr. António Palha 13 \n']).
+solucao('teste1',[      '\n Prato5
+                          \n Descricao
+                          \n 1 - 5
+                          \n https://www.livingwellspendingless.com/wp-content/uploads/2020/04/Fresh-Fruit-Salad-with-Honey-Lemon-Mint-Syrup_-Horizontal1.jpg
+                          \n 100
+                          \n Restaurante1Prato5
+                          \n https://webraga.pt/wp-content/uploads/2018/10/we-braga-brunch-3.jpg
+                          \n 4.0
+                          \n Restaurante2Prato5
+                          \n Continente
+                          \n https://fastly.4sqi.net/img/general/width960/398869057_XhG73TQqyti9vkUBUvqLCCFl6LK-uTvxfvn3TglH1Ak.png
+                          \n 4.1
+                          \n Restaurante3Prato5
+                          \n Mercadona
+                          \n https://globalpav.pt/wp-content/uploads/2020/03/IMG_0672.jpg
+                          \n 4.5
+                          \n Av. Dr. António Palha 13 \n']).
+
+
+
+
+% Pequeno almoço %
 % Leve Vegan %
 solucao('breakfast1',[      ['\n Salada de frutas e sumo natural
                           \n Uma salada de frutas é tudo o que precisas para iniciar o dia com energia!
