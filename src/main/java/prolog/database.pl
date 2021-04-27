@@ -161,7 +161,7 @@ solucao('lunch1',[      ['\n Salada de massa e ervas vegetais
                         ]
                        ]).
 
-solucao('snacks1',[     ['\n Waffles
+solucao('snacks1',[     '\n Waffles
                           \n Os waffles são um doce delicioso de origem belga. Pode ser comida simples ou com diversas coberturas, como doces de fruta, chocolate ou gelado.
                           \n 3-5
                           \n https://tatyanaseverydayfood.com/wp-content/uploads/2020/09/Cinnamon-Waffles-with-Fruit.jpg
@@ -176,8 +176,8 @@ solucao('snacks1',[     ['\n Waffles
                           \n Nut
                           \n https://lh5.googleusercontent.com/p/AF1QipODHWIt7XXS9mYI8hBIDnn8QlDR1a_ZJXG2UUNc=w800-h800-n-k-no
                           \n 4.2
-                          \n R. do Souto 135 \n'],
-                        ['\n Panquecas
+                          \n R. do Souto 135 \n']).
+solucao('snacks1',[       '\n Panquecas
                           \n As panquecas são um doce delicioso, que pode ser comida simples ou com diversas coberturas, como doces de fruta, chocolate ou gelado.
                           \n 3€-5€
                           \n https://ncultura.pt/wp-content/uploads/2020/08/whole-grain-pancake-stack.jpg
@@ -192,9 +192,8 @@ solucao('snacks1',[     ['\n Waffles
                           \n APE Coffee
                           \n https://webraga.pt/wp-content/uploads/2017/07/we-braga-ape-coffee-11.jpg
                           \n 4.7
-                          \n R. Dom Frei Caetano Brandão 61 \n']
-                       ]).
-solucao('snacks2',[     ['\n Papas de aveia
+                          \n R. Dom Frei Caetano Brandão 61 \n']).
+solucao('snacks2',[     '\n Papas de aveia
                           \n As papas de aveia são uma excelente opção para um lanche saudável! 
                           \n 2-5
                           \n https://cdn.vidaativa.pt/uploads/2020/07/papas-de-aveia-no-forno-com-coco.jpg
@@ -209,8 +208,8 @@ solucao('snacks2',[     ['\n Papas de aveia
                           \n Nordico
                           \n https://webraga.pt/wp-content/uploads/2018/06/We-Braga-nordico-coffeeshop01-min.jpg
                           \n 4.6
-                          \n R. do Anjo 90A \n'],
-                        ['\n Pão com manteiga de amendoim
+                          \n R. do Anjo 90A \n']).
+solucao('snacks2',      ['\n Pão com manteiga de amendoim
                           \n Para um lanche proteico, coma um pão de manteiga de amendoim!
                           \n 2-3
                           \n https://www.loveat.pt/wordpress/wp-content/uploads/2016/10/peanut-butter-toast.jpg
@@ -225,8 +224,7 @@ solucao('snacks2',[     ['\n Papas de aveia
                           \n APE Coffee
                           \n https://webraga.pt/wp-content/uploads/2017/07/we-braga-ape-coffee-11.jpg
                           \n 4.7
-                          \n R. Dom Frei Caetano Brandão 61 \n']
-                       ]).
+                          \n R. Dom Frei Caetano Brandão 61 \n']).
 
 solucao('d1',[     ['\n Sopa de lentilha
                           \n A sopa de lentilhas é um prato típico da culinária do Oriente Médio, e pode ser composta por diferentes variedades de lentilha, o que permite uma grande gama de possibilidades para a sopa.
