@@ -161,7 +161,7 @@ solucao('breakfast1',['\n Fruta e Granola
 solucao('breakfast1',['\n Tostinhas com compota e sumo natural
                           \n Crocante, saboroso e refrescante! Nada melhor para começar a manhã!
                           \n 1-4
-                          \n https://570341-1841894-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2019/10/taca-de-frutas-com-granola-caseira-52350.jpg
+                          \n https://www.saborintenso.com/images/receitas/Compota-de-Morangos-SI-2.jpg
                           \n 100
                           \n Continente
                           \n https://fastly.4sqi.net/img/general/width960/398869057_XhG73TQqyti9vkUBUvqLCCFl6LK-uTvxfvn3TglH1Ak.png
@@ -401,42 +401,6 @@ solucao('breakfast3',['\n Banana Split
                           \n https://www.evasoes.pt/files/2019/04/34302027_WEB_48877967_GI12092017CRISTIANAMILHAO00026_WEB-960x640_c.jpg
                           \n 4.0
                           \n R. do Souto Nº141/ E Largo Barão S.Martinho \n']).   
-% Almoço
-% Leve Vegan %
-solucao('lunch1',[      ['\n Salada de massa e ervas vegetais
-                          \n Esta salada de massa de ervas vegetais sem glúten é feita com vegetais frescos e vinaigrette de erva de limão. Perfeito para qualquer momento do ano e faz uma salada saudável e corativa!
-                          \n 10 - 15
-                          \n https://149366112.v2.pressablecdn.com/wp-content/uploads/2017/05/garden-picnic-pasta-with-veggies-herbs-and-orange-miso-tahini-dressing.jpg
-                          \n Hibiscus
-                          \n https://revistaspot.pt/wp-content/uploads/2020/09/hibiscus-revista-spot-ananas4-2.jpg
-                          \n 4.6
-                          \n Portugal, Largo de São Francisco 32
-                          \n UniVegetariano
-                          \n https://images.adsttc.com/media/images/5ab9/3634/f197/cc6e/5400/00b7/newsletter/0376.jpg?1522087455
-                          \n 4.9
-                          \n R. Nova de Santa Cruz 63
-                          \n Shanti - Restaurante Vegetariano | Vegano
-                          \n https://revistaspot.pt/wp-content/uploads/2019/09/shanti-2.jpg
-                          \n 4.6
-                          \n R. Nova de Santa Cruz 21 A \n'],
-                        ['\n Salada de batata doce picante
-                          \n Esta salada de batata doce leva o almoço a um nível totalmente novo. Deixe sua lancheira orgulhosa novamente!
-                          \n 10 - 15
-                          \n https://lh3.googleusercontent.com/74i1dcRfyeuU3oJ4ny6_fS4hWtwy-1KuKdx2OVNR3bA326LJK7FppMo4TZZX16LsCbOZUpI1NJ6yRWM6g3skFQ=w1280-h720-c-rj-v1-e365
-                          \n Hibiscus
-                          \n https://revistaspot.pt/wp-content/uploads/2020/09/hibiscus-revista-spot-ananas4-2.jpg
-                          \n 4.6
-                          \n Portugal, Largo de São Francisco 32
-                          \n UniVegetariano
-                          \n https://images.adsttc.com/media/images/5ab9/3634/f197/cc6e/5400/00b7/newsletter/0376.jpg?1522087455
-                          \n 4.9
-                          \n R. Nova de Santa Cruz 63
-                          \n Shanti - Restaurante Vegetariano | Vegano
-                          \n https://revistaspot.pt/wp-content/uploads/2019/09/shanti-2.jpg
-                          \n 4.6
-                          \n R. Nova de Santa Cruz 21 A \n'
-                        ]
-                       ]).
 
 % Leve Vegetariano %
 solucao('breakfast4',['\n Salada de frutas e sumo natural
@@ -890,7 +854,7 @@ solucao('breakfast8',['\n Bagel de bacon
                           \n 4.7
                           \n Praça do Comércio, 90 \n']).
 solucao('breakfast8',['\n Tosta de abacate com bacon e ovo
-                          \n Uma tosta barrada com bacon, com bacon e um ovo frito ou escalfado para o deliciar.
+                          \n Uma tosta barrada com abacate, com bacon e um ovo frito ou escalfado para o deliciar.
                           \n 1-5
                           \n https://1.bp.blogspot.com/-eGWiPLSH7mo/Wvx1Dg1EWkI/AAAAAAAABEg/LONBJwUJ-7gsW_v23d8DsP8uUR3XHdkwQCLcBGAs/s1600/IMG_20180320_203142221.jpg
                           \n 100
@@ -1061,6 +1025,43 @@ solucao('breakfast9',['\n Quiche de queijo e presunto
                           \n https://globalpav.pt/wp-content/uploads/2020/03/IMG_0672.jpg
                           \n 4.5
                           \n Av. Dr. António Palha 13']).                          
+
+% Almoço
+% Leve Vegan %
+solucao('lunch1',[      ['\n Salada de massa e ervas vegetais
+                          \n Esta salada de massa de ervas vegetais sem glúten é feita com vegetais frescos e vinaigrette de erva de limão. Perfeito para qualquer momento do ano e faz uma salada saudável e corativa!
+                          \n 10 - 15
+                          \n https://149366112.v2.pressablecdn.com/wp-content/uploads/2017/05/garden-picnic-pasta-with-veggies-herbs-and-orange-miso-tahini-dressing.jpg
+                          \n Hibiscus
+                          \n https://revistaspot.pt/wp-content/uploads/2020/09/hibiscus-revista-spot-ananas4-2.jpg
+                          \n 4.6
+                          \n Portugal, Largo de São Francisco 32
+                          \n UniVegetariano
+                          \n https://images.adsttc.com/media/images/5ab9/3634/f197/cc6e/5400/00b7/newsletter/0376.jpg?1522087455
+                          \n 4.9
+                          \n R. Nova de Santa Cruz 63
+                          \n Shanti - Restaurante Vegetariano | Vegano
+                          \n https://revistaspot.pt/wp-content/uploads/2019/09/shanti-2.jpg
+                          \n 4.6
+                          \n R. Nova de Santa Cruz 21 A \n'],
+                        ['\n Salada de batata doce picante
+                          \n Esta salada de batata doce leva o almoço a um nível totalmente novo. Deixe sua lancheira orgulhosa novamente!
+                          \n 10 - 15
+                          \n https://lh3.googleusercontent.com/74i1dcRfyeuU3oJ4ny6_fS4hWtwy-1KuKdx2OVNR3bA326LJK7FppMo4TZZX16LsCbOZUpI1NJ6yRWM6g3skFQ=w1280-h720-c-rj-v1-e365
+                          \n Hibiscus
+                          \n https://revistaspot.pt/wp-content/uploads/2020/09/hibiscus-revista-spot-ananas4-2.jpg
+                          \n 4.6
+                          \n Portugal, Largo de São Francisco 32
+                          \n UniVegetariano
+                          \n https://images.adsttc.com/media/images/5ab9/3634/f197/cc6e/5400/00b7/newsletter/0376.jpg?1522087455
+                          \n 4.9
+                          \n R. Nova de Santa Cruz 63
+                          \n Shanti - Restaurante Vegetariano | Vegano
+                          \n https://revistaspot.pt/wp-content/uploads/2019/09/shanti-2.jpg
+                          \n 4.6
+                          \n R. Nova de Santa Cruz 21 A \n'
+                        ]
+                       ]).
 
 solucao('snacks1',[     '\n Waffles
                           \n Os waffles são um doce delicioso de origem belga. Pode ser comida simples ou com diversas coberturas, como doces de fruta, chocolate ou gelado.
