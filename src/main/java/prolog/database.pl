@@ -442,6 +442,7 @@ solucao('snacks1',[     '\n Waffles
                           \n Os waffles são um doce delicioso de origem belga. Pode ser comida simples ou com diversas coberturas, como doces de fruta, chocolate ou gelado.
                           \n 3-5
                           \n https://tatyanaseverydayfood.com/wp-content/uploads/2020/09/Cinnamon-Waffles-with-Fruit.jpg
+                          \n 90
                           \n Myiced
                           \n https://d1bvpoagx8hqbg.cloudfront.net/originals/my-iced-braga-393a60dee5f80446b9f799b28dc37d2a.jpg
                           \n 4.4
@@ -458,6 +459,7 @@ solucao('snacks1',[       '\n Panquecas
                           \n As panquecas são um doce delicioso, que pode ser comida simples ou com diversas coberturas, como doces de fruta, chocolate ou gelado.
                           \n 3€-5€
                           \n https://ncultura.pt/wp-content/uploads/2020/08/whole-grain-pancake-stack.jpg
+                          \n 85
                           \n Nordico
                           \n https://webraga.pt/wp-content/uploads/2018/06/We-Braga-nordico-coffeeshop01-min.jpg
                           \n 4.6
@@ -474,6 +476,7 @@ solucao('snacks2',[     '\n Papas de aveia
                           \n As papas de aveia são uma excelente opção para um lanche saudável! 
                           \n 2-5
                           \n https://cdn.vidaativa.pt/uploads/2020/07/papas-de-aveia-no-forno-com-coco.jpg
+                          \n 70
                           \n APE Coffee
                           \n https://webraga.pt/wp-content/uploads/2017/07/we-braga-ape-coffee-11.jpg
                           \n 4.7
@@ -490,6 +493,7 @@ solucao('snacks2',      ['\n Pão com manteiga de amendoim
                           \n Para um lanche proteico, coma um pão de manteiga de amendoim!
                           \n 2-3
                           \n https://www.loveat.pt/wordpress/wp-content/uploads/2016/10/peanut-butter-toast.jpg
+                          \n 75
                           \n Nordico
                           \n https://webraga.pt/wp-content/uploads/2018/06/We-Braga-nordico-coffeeshop01-min.jpg
                           \n 4.6
