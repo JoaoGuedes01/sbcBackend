@@ -11,8 +11,8 @@ if 'breakfast' and 'pesado' then 'palmocopesado'.
 
 % Pequeno almoco leve %
 if 'palmocoleve' and 'vegan' then 'breakfast1'.
-if 'palmocoleve' and 'vege' then 'breakfast1'.
-if 'palmocoleve' and 'carne' then 'breakfast1'.
+if 'palmocoleve' and 'vege' then 'breakfast4'.
+if 'palmocoleve' and 'carne' then 'breakfast7'.
 if 'palmocoleve' and 'medite' then 'breakfast1'.
 if 'palmocoleve' and 'peixe' then 'breakfast1'.
 if 'palmocoleve' and 'fastfood' then 'breakfast1'.
@@ -20,8 +20,8 @@ if 'palmocoleve' and 'ww' then 'breakfast1'.
 
 % Pequeno almoco equilibrado %
 if 'palmocoequilibrado' and 'vegan' then 'breakfast2'.
-if 'palmocoequilibrado' and 'vege' then 'breakfast1'.
-if 'palmocoequilibrado' and 'carne' then 'breakfast1'.
+if 'palmocoequilibrado' and 'vege' then 'breakfast5'.
+if 'palmocoequilibrado' and 'carne' then 'breakfast8'.
 if 'palmocoequilibrado' and 'medite' then 'breakfast1'.
 if 'palmocoequilibrado' and 'peixe' then 'breakfast1'.
 if 'palmocoequilibrado' and 'fastfood' then 'breakfast1'.
@@ -29,8 +29,8 @@ if 'palmocoequilibrado' and 'ww' then 'breakfast1'.
 
 % Pequeno almoco pesado %
 if 'palmocopesado' and 'vegan' then 'breakfast3'.
-if 'palmocopesado' and 'vege' then 'breakfast1'.
-if 'palmocopesado' and 'carne' then 'breakfast1'.
+if 'palmocopesado' and 'vege' then 'breakfast6'.
+if 'palmocopesado' and 'carne' then 'breakfast9'.
 if 'palmocopesado' and 'medite' then 'breakfast1'.
 if 'palmocopesado' and 'peixe' then 'breakfast1'.
 if 'palmocopesado' and 'fastfood' then 'breakfast1'.
