@@ -1685,7 +1685,8 @@ solucao('lunch1',[      ['\n Salada de massa e ervas vegetais
                           \n R. Nova de Santa Cruz 21 A \n'
                         ]
                        ]).
-
+% Lanche
+% Pesado Geral %
 solucao('snacks1',[     '\n Waffles
                           \n Os waffles são um doce delicioso de origem belga. Pode ser comida simples ou com diversas coberturas, como doces de fruta, chocolate ou gelado.
                           \n 3-5
@@ -1705,7 +1706,7 @@ solucao('snacks1',[     '\n Waffles
                           \n R. do Souto 135 \n']).
 solucao('snacks1',[       '\n Panquecas
                           \n As panquecas são um doce delicioso, que pode ser comida simples ou com diversas coberturas, como doces de fruta, chocolate ou gelado.
-                          \n 3€-5€
+                          \n 3-5
                           \n https://ncultura.pt/wp-content/uploads/2020/08/whole-grain-pancake-stack.jpg
                           \n 85
                           \n Nordico
@@ -1720,6 +1721,281 @@ solucao('snacks1',[       '\n Panquecas
                           \n https://webraga.pt/wp-content/uploads/2017/07/we-braga-ape-coffee-11.jpg
                           \n 4.7
                           \n R. Dom Frei Caetano Brandão 61 \n']).
+solucao('snacks1',[       '\n Donuts
+                          \n Consiste numa massa açucarada frita, que pode ser coberta com diversos tipos de cobertura doce e colorida, como por exemplo chocolate.
+                          \n 1-3
+                          \n https://tilmagazine.pt/wp-content/uploads/2020/11/damn-doug_32-min-e1605697732186-1335x1200.png
+                          \n 90
+                          \n Nordico
+                          \n https://webraga.pt/wp-content/uploads/2018/06/We-Braga-nordico-coffeeshop01-min.jpg
+                          \n 4.6
+                          \n R. do Anjo 90A
+                          \n Spirito Cupcakes & Coffee
+                          \n https://webraga.pt/wp-content/uploads/2017/07/we-braga-spirito-cupcakes-4-1.jpg
+                          \n 4,4
+                          \n Largo de São João do Souto 19
+                          \n APE Coffee
+                          \n https://webraga.pt/wp-content/uploads/2017/07/we-braga-ape-coffee-11.jpg
+                          \n 4.7
+                          \n R. Dom Frei Caetano Brandão 61 \n']).
+solucao('snacks1',[		 '\n Croissant
+                          \n Croissants podem ser servidos simples bem como recheados com diversas opções doces ou salgadas.
+                          \n 3-5
+                          \n https://i.ytimg.com/vi/s56GhHU54Bw/maxresdefault.jpg
+                          \n 100
+                          \n Casa dos Croissants
+                          \n https://www.correiodominho.pt/images/100701_800x800.jpg
+                          \n 4,5
+                          \n Centro Comercial Galécia Lj Comendador António Maria Santos Cunha 025, R. 25 de Abril
+                          \n Montalegrense
+                          \n https://www.artfinal.net/conteudo/uploads/2018/08/imagem_1327058200-1.jpg
+                          \n 4,2
+                          \n Rua Padres Carmelitas
+                          \n Pastelaria Glicínia
+                          \n https://lh3.googleusercontent.com/proxy/IJXmbi6Xn1ZDSaL0i-KwehR6JCoI2HOUAfyf4655xsrebwSoW57BJPB2xTEkgKfejvYfAvIJAPofbT_NX4s39N6D320hENMoNxA5
+                          \n 4,3
+                          \n R. do Cruzeiro 165']).	
+solucao('snacks1',[		 '\n Croissant
+                          \n Croissants podem ser servidos simples bem como recheados com diversas opções doces ou salgadas.
+                          \n 3-5
+                          \n https://i.ytimg.com/vi/s56GhHU54Bw/maxresdefault.jpg
+                          \n 100
+                          \n Casa dos Croissants
+                          \n https://www.correiodominho.pt/images/100701_800x800.jpg
+                          \n 4,5
+                          \n Centro Comercial Galécia Lj Comendador António Maria Santos Cunha 025, R. 25 de Abril
+                          \n Montalegrense
+                          \n https://www.artfinal.net/conteudo/uploads/2018/08/imagem_1327058200-1.jpg
+                          \n 4,2
+                          \n Rua Padres Carmelitas
+                          \n Pastelaria Glicínia
+                          \n https://lh3.googleusercontent.com/proxy/IJXmbi6Xn1ZDSaL0i-KwehR6JCoI2HOUAfyf4655xsrebwSoW57BJPB2xTEkgKfejvYfAvIJAPofbT_NX4s39N6D320hENMoNxA5
+                          \n 4,3
+                          \n R. do Cruzeiro 165']).
+solucao('snacks1',[	     '\n French toast 
+                          \n French toast é um doce de pão de trigo em fatias que, depois de molhadas em leite, vinho ou calda de açúcar, são passadas por ovos e fritas ou assadas.
+                          \n 3-5
+                          \n https://images.immediate.co.uk/production/volatile/sites/30/2020/08/french-toast_1-5bbce73.jpg
+                          \n 100
+                          \n Nordico
+                          \n https://webraga.pt/wp-content/uploads/2018/06/We-Braga-nordico-coffeeshop01-min.jpg
+                          \n 4.6
+                          \n R. do Anjo 90A
+                          \n Spirito Cupcakes & Coffee
+                          \n https://webraga.pt/wp-content/uploads/2017/07/we-braga-spirito-cupcakes-4-1.jpg
+                          \n 4,4
+                          \n Largo de São João do Souto 19
+                          \n APE Coffee
+                          \n https://webraga.pt/wp-content/uploads/2017/07/we-braga-ape-coffee-11.jpg
+                          \n 4.7
+                          \n R. Dom Frei Caetano Brandão 61 \n']).
+% Equilibrado Geral %
+solucao('snacks3',[	     '\n Quiche 
+                          \n Quiche pode ser de diferentes sabores como queijo e presunto.
+                          \n 2-4
+                          \n https://www.alegrafoods.com.br/wp-content/uploads/2020/03/alegra-6-768x1152.jpg
+                          \n 100
+                          \n Colinatrum
+                          \n https://webraga.pt/wp-content/uploads/2018/10/we-braga-brunch-3.jpg
+                          \n 4.0
+                          \n R. Damião de Góis 11
+                          \n Continente
+                          \n https://fastly.4sqi.net/img/general/width960/398869057_XhG73TQqyti9vkUBUvqLCCFl6LK-uTvxfvn3TglH1Ak.png
+                          \n 4.1
+                          \n Quinta das Portas, R. de Abraão nº120
+                          \n Mercadona
+                          \n https://globalpav.pt/wp-content/uploads/2020/03/IMG_0672.jpg
+                          \n 4.5
+                          \n Av. Dr. António Palha 13']).
+solucao('snacks3',[		 '\n Cereais com leite
+                          \n Uma taça de cereais e leite para fornecer a enegia necessária durante o resto do dia.
+                          \n 1-5
+                          \n https://enprocal.com.au/wp-content/uploads/2019/07/Fortified-Milk-Cereal.jpg
+                          \n 100
+                          \n Continente
+                          \n https://fastly.4sqi.net/img/general/width960/398869057_XhG73TQqyti9vkUBUvqLCCFl6LK-uTvxfvn3TglH1Ak.png
+                          \n 4.1
+                          \n Quinta das Portas, R. de Abraão nº120
+                          \n Mercadona
+                          \n https://globalpav.pt/wp-content/uploads/2020/03/IMG_0672.jpg
+                          \n 4.5
+                          \n Av. Dr. António Palha 13
+                          \n Cerealover Café
+                          \n https://media-cdn.tripadvisor.com/media/photo-s/1b/30/2a/d7/o-nosso-cantinho-p.jpg
+                          \n 4.9
+                          \n Rua Quinta Dos Orfãos BL A2, Loja 9 \n']).
+solucao('snacks3',[  	 '\n Banana Bread
+                          \n Crocante, saboroso e saudavel! O que podia ser melhor?
+                          \n 1-6
+                          \n https://i.pinimg.com/originals/a1/e4/eb/a1e4eb89d4139eec6fd0a5eb5fa78b05.png
+                          \n 100
+                          \n Nordico
+                          \n https://webraga.pt/wp-content/uploads/2018/06/We-Braga-nordico-coffeeshop01-min.jpg
+                          \n 4.6
+                          \n R. do Anjo 90A
+                          \n Colinatrum
+                          \n https://webraga.pt/wp-content/uploads/2018/10/we-braga-brunch-3.jpg
+                          \n 4.0
+                          \n R. Damião de Góis 11
+                          \n Nordico
+                          \n https://webraga.pt/wp-content/uploads/2018/06/We-Braga-nordico-coffeeshop01-min.jpg
+                          \n 4.6
+                          \n R. do Anjo 90A \n']). 
+solucao('snacks3',[		 '\n Torradas com manteiga
+                          \n Torradas com manteiga é uma excelente opção basica para um lanche equilibrado.
+                          \n 1-5
+                          \n https://static.clubedaanamariabraga.com.br/wp-content/uploads/2019/05/Torradas-caseiras.jpg
+                          \n 100
+                          \n A Brasileira
+                          \n https://lifecooler.com/files/registos/imagens/419549/209088.jpg
+                          \n 4.3
+                          \n Largo do Barão de São Martinho 17
+                          \n Chave D Ouro
+                          \n https://www.correiodominho.pt/images/115203_800x800.jpg
+                          \n 4.6
+                          \n R. Beato Miguel de Carvalho 216 
+                          \n Café Vianna
+                          \n https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Cafe_Vianna.JPG/1200px-Cafe_Vianna.JPG
+                          \n 4.1
+                          \n Praca da Republica \n']).
+solucao('snacks3',[		 '\n Tosta de abacate
+                          \n Uma tosta barrada com abacate pode ser acompanhado com bacon, um ovo frito ou escalfado entre outros.
+                          \n 1-5
+                          \n https://1.bp.blogspot.com/-eGWiPLSH7mo/Wvx1Dg1EWkI/AAAAAAAABEg/LONBJwUJ-7gsW_v23d8DsP8uUR3XHdkwQCLcBGAs/s1600/IMG_20180320_203142221.jpg
+                          \n 100
+                          \n Nordico
+                          \n https://webraga.pt/wp-content/uploads/2018/06/We-Braga-nordico-coffeeshop01-min.jpg
+                          \n 4.6
+                          \n R. do Anjo 90A
+                          \n Colinatrum
+                          \n https://webraga.pt/wp-content/uploads/2018/10/we-braga-brunch-3.jpg
+                          \n 4.0
+                          \n R. Damião de Góis 11
+                          \n O Amor Vive na Cozinha
+                          \n https://www.evasoes.pt/files/2020/10/38483559_WEB_54236161_GI17092020PJM000023_WEB.jpg
+                          \n 4.7
+                          \n Praça do Comércio, 90 \n']).	
+solucao('snacks3',[		 '\n Gelado
+                          \n Gelado pode ser apresentado com ou sem toppings e está disponivel em diversos sabores.
+                          \n 1-5
+                          \n https://media-manager.noticiasaominuto.com/1920/naom_5f3f7a5e6d136.jpg
+                          \n 100
+                          \n Myiced
+                          \n https://d1bvpoagx8hqbg.cloudfront.net/originals/my-iced-braga-393a60dee5f80446b9f799b28dc37d2a.jpg
+                          \n 4.4
+                          \n Pça Santa Barbara 3
+                         \n Myiced
+                          \n https://d1bvpoagx8hqbg.cloudfront.net/originals/my-iced-braga-393a60dee5f80446b9f799b28dc37d2a.jpg
+                          \n 4.4
+                          \n Pça Santa Barbara 3
+                          \n Sabores Gelados
+                          \n https://www.evasoes.pt/files/2019/04/34302027_WEB_48877967_GI12092017CRISTIANAMILHAO00026_WEB-960x640_c.jpg
+                          \n 4.0
+                          \n R. do Souto Nº141/ E Largo Barão S.Martinho \n']).
+% Leve Geral %
+solucao('snacks4',[		 '\n Cereais com leite
+                          \n Uma taça de cereais e leite para fornecer a enegia necessária durante o resto do dia.
+                          \n 1-5
+                          \n https://enprocal.com.au/wp-content/uploads/2019/07/Fortified-Milk-Cereal.jpg
+                          \n 100
+                          \n Continente
+                          \n https://fastly.4sqi.net/img/general/width960/398869057_XhG73TQqyti9vkUBUvqLCCFl6LK-uTvxfvn3TglH1Ak.png
+                          \n 4.1
+                          \n Quinta das Portas, R. de Abraão nº120
+                          \n Mercadona
+                          \n https://globalpav.pt/wp-content/uploads/2020/03/IMG_0672.jpg
+                          \n 4.5
+                          \n Av. Dr. António Palha 13
+                          \n Cerealover Café
+                          \n https://media-cdn.tripadvisor.com/media/photo-s/1b/30/2a/d7/o-nosso-cantinho-p.jpg
+                          \n 4.9
+                          \n Rua Quinta Dos Orfãos BL A2, Loja 9 \n']).
+solucao('snacks4',[		 '\n Tostinhas com compota e sumo natural
+                          \n Tostinhas com compota e sumo são uma excelente opção para quem procura uma opção mais crocante e refrescante.
+                          \n 1-4
+                          \n https://www.saborintenso.com/images/receitas/Compota-de-Morangos-SI-2.jpg 
+                          \n 100
+                          \n Continente
+                          \n https://fastly.4sqi.net/img/general/width960/398869057_XhG73TQqyti9vkUBUvqLCCFl6LK-uTvxfvn3TglH1Ak.png
+                          \n 4.1
+                          \n Quinta das Portas, R. de Abraão nº120
+                          \n Mercadona
+                          \n https://globalpav.pt/wp-content/uploads/2020/03/IMG_0672.jpg
+                          \n 4.5
+                          \n Av. Dr. António Palha 13
+                          \n Pingo Doce
+                          \n https://www.correiodominho.pt/images/106940_800x800.jpg
+                          \n 4.3
+                          \n R. dos Congregados 23 \n']).
+solucao('snacks4',[		 '\n Madalenas
+                          \n Madalenas são uma excelente opção de lanche para todos que perferirem uma opção mais doce.
+                          \n 1-4
+                          \n https://www.cookii.pt/imagens/madalenas.jpg
+                          \n 100
+                          \n Continente
+                          \n https://fastly.4sqi.net/img/general/width960/398869057_XhG73TQqyti9vkUBUvqLCCFl6LK-uTvxfvn3TglH1Ak.png
+                          \n 4.1
+                          \n Quinta das Portas, R. de Abraão nº120
+                          \n Mercadona
+                          \n https://globalpav.pt/wp-content/uploads/2020/03/IMG_0672.jpg
+                          \n 4.5
+                          \n Av. Dr. António Palha 13
+                          \n Cerealover Café
+                          \n https://media-cdn.tripadvisor.com/media/photo-s/1b/30/2a/d7/o-nosso-cantinho-p.jpg
+                          \n 4.9
+                          \n Rua Quinta Dos Orfãos BL A2, Loja 9 \n']).
+solucao('snacks4',[		 '\n Salada de frutas e sumo natural
+                          \n Uma salada de frutas é tudo o que precisas para um lanche nutricional.
+                          \n 1-5
+                          \n https://www.livingwellspendingless.com/wp-content/uploads/2020/04/Fresh-Fruit-Salad-with-Honey-Lemon-Mint-Syrup_-Horizontal1.jpg
+                          \n 10
+                          \n Colinatrum
+                          \n https://webraga.pt/wp-content/uploads/2018/10/we-braga-brunch-3.jpg
+                          \n 4.0
+                          \n R. Damião de Góis 11
+                          \n Continente
+                          \n https://fastly.4sqi.net/img/general/width960/398869057_XhG73TQqyti9vkUBUvqLCCFl6LK-uTvxfvn3TglH1Ak.png
+                          \n 4.1
+                          \n Quinta das Portas, R. de Abraão nº120
+                          \n Mercadona
+                          \n https://globalpav.pt/wp-content/uploads/2020/03/IMG_0672.jpg
+                          \n 4.5
+                          \n Av. Dr. António Palha 13 \n']).
+solucao('snacks4',[		 '\n Batido de Frutas
+                          \n Batido de Frutas pode ser feito de diversas frutas, tornando este uma excelente opção nutricional.
+                          \n 1-5
+                          \n https://www.informebrasil.com.br/wp-content/uploads/2020/10/smoothie-batidos-49.jpg
+                          \n 80
+                          \n Nordico
+                          \n https://webraga.pt/wp-content/uploads/2018/06/We-Braga-nordico-coffeeshop01-min.jpg
+                          \n 4.6
+                          \n R. do Anjo 90A
+                          \n Spirito Cupcakes & Coffee
+                          \n https://webraga.pt/wp-content/uploads/2017/07/we-braga-spirito-cupcakes-4-1.jpg
+                          \n 4,4
+                          \n Largo de São João do Souto 19
+                          \n APE Coffee
+                          \n https://webraga.pt/wp-content/uploads/2017/07/we-braga-ape-coffee-11.jpg
+                          \n 4.7
+                          \n R. Dom Frei Caetano Brandão 61 \n']).
+solucao('snacks4',[		 '\n Bolachas de arroz
+                          \n Bolachas de arroz podem ser acompanhadas por diferentes toppings ou simples para um lanche leve de delicioso.
+                          \n 1-2
+                          \n https://receitassaudaveis.fit/wp-content/uploads/2021/02/Banana-e-manteiga-de-amendoim-com-biscoitos-de-arroz.jpg
+                          \n 10
+                          \n Colinatrum
+                          \n https://webraga.pt/wp-content/uploads/2018/10/we-braga-brunch-3.jpg
+                          \n 4.0
+                          \n R. Damião de Góis 11
+                          \n Continente
+                          \n https://fastly.4sqi.net/img/general/width960/398869057_XhG73TQqyti9vkUBUvqLCCFl6LK-uTvxfvn3TglH1Ak.png
+                          \n 4.1
+                          \n Quinta das Portas, R. de Abraão nº120
+                          \n Mercadona
+                          \n https://globalpav.pt/wp-content/uploads/2020/03/IMG_0672.jpg
+                          \n 4.5
+                          \n Av. Dr. António Palha 13 \n']).
+% VeganVege Equilibrado %
 solucao('snacks2',[     '\n Papas de aveia
                           \n As papas de aveia são uma excelente opção para um lanche saudável! 
                           \n 2-5
@@ -1737,7 +2013,7 @@ solucao('snacks2',[     '\n Papas de aveia
                           \n https://webraga.pt/wp-content/uploads/2018/06/We-Braga-nordico-coffeeshop01-min.jpg
                           \n 4.6
                           \n R. do Anjo 90A \n']).
-solucao('snacks2',      ['\n Pão com manteiga de amendoim
+solucao('snacks2',[		 '\n Pão com manteiga de amendoim
                           \n Para um lanche proteico, coma um pão de manteiga de amendoim!
                           \n 2-3
                           \n https://www.loveat.pt/wordpress/wp-content/uploads/2016/10/peanut-butter-toast.jpg
@@ -1754,6 +2030,280 @@ solucao('snacks2',      ['\n Pão com manteiga de amendoim
                           \n https://webraga.pt/wp-content/uploads/2017/07/we-braga-ape-coffee-11.jpg
                           \n 4.7
                           \n R. Dom Frei Caetano Brandão 61 \n']).
+olucao('snacks2',[		 '\n Tostas com abacate
+                          \n Crocante, saboroso e saudavel! O que podia ser melhor?
+                          \n 1-6
+                          \n https://c6.quickcachr.fotos.sapo.pt/i/Ga91766d6/21689169_uByBZ.jpeg
+                          \n 100
+                          \n Nordico
+                          \n https://webraga.pt/wp-content/uploads/2018/06/We-Braga-nordico-coffeeshop01-min.jpg
+                          \n 4.6
+                          \n R. do Anjo 90A
+                          \n Colinatrum
+                          \n https://webraga.pt/wp-content/uploads/2018/10/we-braga-brunch-3.jpg
+                          \n 4.0
+                          \n R. Damião de Góis 11
+                          \n Pausa | Cafetaria
+                          \n https://webraga.pt/wp-content/uploads/2018/10/we-braga-brunch-4.jpg
+                          \n 4.6
+                          \n Praça Conde de Agrolongo, 123 \n']).
+solucao('snacks2',[		 '\n Banana Bread
+                          \n Crocante, saboroso e saudavel! O que podia ser melhor?
+                          \n 1-6
+                          \n https://i.pinimg.com/originals/a1/e4/eb/a1e4eb89d4139eec6fd0a5eb5fa78b05.png
+                          \n 100
+                          \n Nordico
+                          \n https://webraga.pt/wp-content/uploads/2018/06/We-Braga-nordico-coffeeshop01-min.jpg
+                          \n 4.6
+                          \n R. do Anjo 90A
+                          \n Colinatrum
+                          \n https://webraga.pt/wp-content/uploads/2018/10/we-braga-brunch-3.jpg
+                          \n 4.0
+                          \n R. Damião de Góis 11
+                          \n Nordico
+                          \n https://webraga.pt/wp-content/uploads/2018/06/We-Braga-nordico-coffeeshop01-min.jpg
+                          \n 4.6
+                          \n R. do Anjo 90A \n']).
+solucao('snacks2',[		 '\n Batido verde de pêra e espinafres
+                          \n Este batido  verde de pêra e espinafres está cheio de nutrientes perfeito para enriquecer o pequeno almoço ou lanche!
+                          \n 2-6
+                          \n https://dietamais.com/wp-content/uploads/2021/03/Batido-Verde-de-Pera-e-Espinafres.jpg
+                          \n 100
+                          \n Continente
+                          \n https://fastly.4sqi.net/img/general/width960/398869057_XhG73TQqyti9vkUBUvqLCCFl6LK-uTvxfvn3TglH1Ak.png
+                          \n 4.1
+                          \n Quinta das Portas, R. de Abraão nº120
+                          \n Mercadona
+                          \n https://globalpav.pt/wp-content/uploads/2020/03/IMG_0672.jpg
+                          \n 4.5
+                          \n Av. Dr. António Palha 13
+                          \n Nordico
+                          \n https://webraga.pt/wp-content/uploads/2018/06/We-Braga-nordico-coffeeshop01-min.jpg
+                          \n 4.6
+                          \n R. do Anjo 90A \n']).
+solucao('snacks2',[		 '\n Puré de quivi com ananás
+                          \n Um delicioso e fresco lanche para dar energia!
+                          \n 2-5
+                          \n https://www.loveat.pt/wordpress/wp-content/uploads/2017/08/fgkp7-e1538238694567.jpg
+                          \n 100
+                          \n Continente
+                          \n https://fastly.4sqi.net/img/general/width960/398869057_XhG73TQqyti9vkUBUvqLCCFl6LK-uTvxfvn3TglH1Ak.png
+                          \n 4.1
+                          \n Quinta das Portas, R. de Abraão nº120
+                          \n Mercadona
+                          \n https://globalpav.pt/wp-content/uploads/2020/03/IMG_0672.jpg
+                          \n 4.5
+                          \n Av. Dr. António Palha 13
+                          \n Pingo Doce
+                          \n https://www.correiodominho.pt/images/106940_800x800.jpg
+                          \n 4.3
+                          \n R. dos Congregados 23 \n']).
+% Vegan/Vege Leve %
+solucao('snacks5',[		 '\n Salada de frutas e sumo natural
+                          \n Uma salada de frutas é tudo o que precisas para um lanche nutricional.
+                          \n 1-5
+                          \n https://www.livingwellspendingless.com/wp-content/uploads/2020/04/Fresh-Fruit-Salad-with-Honey-Lemon-Mint-Syrup_-Horizontal1.jpg
+                          \n 10
+                          \n Colinatrum
+                          \n https://webraga.pt/wp-content/uploads/2018/10/we-braga-brunch-3.jpg
+                          \n 4.0
+                          \n R. Damião de Góis 11
+                          \n Continente
+                          \n https://fastly.4sqi.net/img/general/width960/398869057_XhG73TQqyti9vkUBUvqLCCFl6LK-uTvxfvn3TglH1Ak.png
+                          \n 4.1
+                          \n Quinta das Portas, R. de Abraão nº120
+                          \n Mercadona
+                          \n https://globalpav.pt/wp-content/uploads/2020/03/IMG_0672.jpg
+                          \n 4.5
+                          \n Av. Dr. António Palha 13 \n']).
+solucao('snacks5',[		 '\n Cereais com leite de soja
+                          \n Uma taça de cereais e leite para um lanche leve.
+                          \n 1-5
+                          \n https://image.freepik.com/fotos-gratis/cereal-simples-e-rapido-de-pequeno-almoco-no-leite_39688-599.jpg
+                          \n 100
+                          \n Continente
+                          \n https://fastly.4sqi.net/img/general/width960/398869057_XhG73TQqyti9vkUBUvqLCCFl6LK-uTvxfvn3TglH1Ak.png
+                          \n 4.1
+                          \n Quinta das Portas, R. de Abraão nº120
+                          \n Mercadona
+                          \n https://globalpav.pt/wp-content/uploads/2020/03/IMG_0672.jpg
+                          \n 4.5
+                          \n Av. Dr. António Palha 13
+                          \n Cerealover Café
+                          \n https://media-cdn.tripadvisor.com/media/photo-s/1b/30/2a/d7/o-nosso-cantinho-p.jpg
+                          \n 4.9
+                          \n Rua Quinta Dos Orfãos BL A2, Loja 9 \n']).
+solucao('snacks5',[		 '\n Iogurte Vegan
+                          \n Pega numa colher e delicia-te com um iogurte!
+                          \n 1-5
+                          \n https://www.nit.pt/wp-content/uploads/2019/04/eb313d7c1afe86e1968d01b7355efbca-754x394.jpg
+                          \n 100
+                          \n Continente
+                          \n https://fastly.4sqi.net/img/general/width960/398869057_XhG73TQqyti9vkUBUvqLCCFl6LK-uTvxfvn3TglH1Ak.png
+                          \n 4.1
+                          \n Quinta das Portas, R. de Abraão nº120
+                          \n Mercadona
+                          \n https://globalpav.pt/wp-content/uploads/2020/03/IMG_0672.jpg
+                          \n 4.5
+                          \n Av. Dr. António Palha 13
+                          \n Pingo Doce
+                          \n https://www.correiodominho.pt/images/106940_800x800.jpg
+                          \n 4.3
+                          \n R. dos Congregados 23 \n']).
+solucao('snacks5',[		 '\n Bolachas de arroz
+                          \n Bolachas de arroz podem ser acompanhadas por diferentes toppings ou simples para um lanche leve de delicioso.
+                          \n 1-2
+                          \n https://receitassaudaveis.fit/wp-content/uploads/2021/02/Banana-e-manteiga-de-amendoim-com-biscoitos-de-arroz.jpg
+                          \n 80
+                          \n Colinatrum
+                          \n https://webraga.pt/wp-content/uploads/2018/10/we-braga-brunch-3.jpg
+                          \n 4.0
+                          \n R. Damião de Góis 11
+                          \n Continente
+                          \n https://fastly.4sqi.net/img/general/width960/398869057_XhG73TQqyti9vkUBUvqLCCFl6LK-uTvxfvn3TglH1Ak.png
+                          \n 4.1
+                          \n Quinta das Portas, R. de Abraão nº120
+                          \n Mercadona
+                          \n https://globalpav.pt/wp-content/uploads/2020/03/IMG_0672.jpg
+                          \n 4.5
+                          \n Av. Dr. António Palha 13 \n']).
+solucao('snacks5',[		 '\n Tostinhas com compota e sumo natural
+                          \n Tostinhas com compota e sumo natural são uma excelente opção para quem procura uma opção mais crocante e refrescante.
+                          \n 1-4
+                          \n https://www.saborintenso.com/images/receitas/Compota-de-Morangos-SI-2.jpg
+                          \n 50
+                          \n Continente
+                          \n https://fastly.4sqi.net/img/general/width960/398869057_XhG73TQqyti9vkUBUvqLCCFl6LK-uTvxfvn3TglH1Ak.png
+                          \n 4.1
+                          \n Quinta das Portas, R. de Abraão nº120
+                          \n Mercadona
+                          \n https://globalpav.pt/wp-content/uploads/2020/03/IMG_0672.jpg
+                          \n 4.5
+                          \n Av. Dr. António Palha 13
+                          \n Pingo Doce
+                          \n https://www.correiodominho.pt/images/106940_800x800.jpg
+                          \n 4.3
+                          \n R. dos Congregados 23 \n']).
+solucao('snacks5',[		 '\n Pipocas doces
+                          \n Pipocas doces é um lanche leve para quem quer algo doce.
+                          \n 1-4
+                          \n https://cdn.vidaativa.pt/uploads/2020/07/como-fazer-pipocas-de-formas-diferentes.jpg
+                          \n 100
+                          \n Continente
+                          \n https://fastly.4sqi.net/img/general/width960/398869057_XhG73TQqyti9vkUBUvqLCCFl6LK-uTvxfvn3TglH1Ak.png
+                          \n 4.1
+                          \n Quinta das Portas, R. de Abraão nº120
+                          \n Mercadona
+                          \n https://globalpav.pt/wp-content/uploads/2020/03/IMG_0672.jpg
+                          \n 4.5
+                          \n Av. Dr. António Palha 13
+                          \n Pingo Doce
+                          \n https://www.correiodominho.pt/images/106940_800x800.jpg
+                          \n 4.3
+                          \n R. dos Congregados 23 \n']).
+% Vegan/Vege Pesado %
+solucao('snacks6',[		 '\n Pão com manteiga de amendoim
+                          \n Para um lanche proteico, coma um pão de manteiga de amendoim!
+                          \n 2-3
+                          \n https://www.loveat.pt/wordpress/wp-content/uploads/2016/10/peanut-butter-toast.jpg
+                          \n 75
+                          \n Nordico
+                          \n https://webraga.pt/wp-content/uploads/2018/06/We-Braga-nordico-coffeeshop01-min.jpg
+                          \n 4.6
+                          \n R. do Anjo 90A
+                          \n Pingo Doce
+                          \n https://www.correiodominho.pt/images/106940_800x800.jpg
+                          \n 4.5
+                          \n Supermercados 
+                          \n APE Coffee
+                          \n https://webraga.pt/wp-content/uploads/2017/07/we-braga-ape-coffee-11.jpg
+                          \n 4.7
+                          \n R. Dom Frei Caetano Brandão 61 \n']).
+solucao('snacks6',[		 '\n Papa de quinoa com laranja
+                          \n Uma fonte de proteína vegetal completa!
+                          \n 2-5
+                          \n https://www.loveat.pt/wordpress/wp-content/uploads/2017/04/IMG_7973.jpg
+                          \n 100
+                          \n Continente
+                          \n https://fastly.4sqi.net/img/general/width960/398869057_XhG73TQqyti9vkUBUvqLCCFl6LK-uTvxfvn3TglH1Ak.png
+                          \n 4.1
+                          \n Quinta das Portas, R. de Abraão nº120
+                          \n Colinatrum
+                          \n https://webraga.pt/wp-content/uploads/2018/10/we-braga-brunch-3.jpg
+                          \n 4.0
+                          \n R. Damião de Góis 11
+                          \n O Amor Vive na Cozinha
+                          \n https://www.evasoes.pt/files/2020/10/38483559_WEB_54236161_GI17092020PJM000023_WEB.jpg
+                          \n 4.7
+                          \n Praça do Comércio, 90 \n']).
+solucao('snacks6',[		 '\n Taça de iogurte, frutas e sementes
+                          \n Uma taça cheia de frutas, sementes e iogurte vegan para te encher de energia!
+                          \n 2-5
+                          \n https://static1.conquistesuavida.com.br/articles//7/66/57/@/21102-a-uniao-de-frutas-e-cereais-e-uma-das-me-article_gallery-3.jpg
+                          \n 100
+                          \n Nordico
+                          \n https://webraga.pt/wp-content/uploads/2018/06/We-Braga-nordico-coffeeshop01-min.jpg
+                          \n 4.6
+                          \n R. do Anjo 90A
+                          \n Colinatrum
+                          \n https://webraga.pt/wp-content/uploads/2018/10/we-braga-brunch-3.jpg
+                          \n 4.0
+                          \n R. Damião de Góis 11
+                          \n O Amor Vive na Cozinha
+                          \n https://www.evasoes.pt/files/2020/10/38483559_WEB_54236161_GI17092020PJM000023_WEB.jpg
+                          \n 4.7
+                          \n Praça do Comércio, 90 \n']).                          
+solucao('snacks6',[		 '\n Smoothie
+                          \n Smoothie tem diversas variadades deacordo com as tuas perferencias e todos os ingredientes selecionados.
+                          \n 2-5
+                          \n https://dicasdecasa.pt/wp-content/uploads/2020/06/smoothie.jpg
+                          \n 100
+                          \n Continente
+                          \n https://fastly.4sqi.net/img/general/width960/398869057_XhG73TQqyti9vkUBUvqLCCFl6LK-uTvxfvn3TglH1Ak.png
+                          \n 4.1
+                          \n Quinta das Portas, R. de Abraão nº120
+                          \n Mercadona
+                          \n https://globalpav.pt/wp-content/uploads/2020/03/IMG_0672.jpg
+                          \n 4.5
+                          \n Av. Dr. António Palha 13
+                          \n Nordico
+                          \n https://webraga.pt/wp-content/uploads/2018/06/We-Braga-nordico-coffeeshop01-min.jpg
+                          \n 4.6
+                          \n R. do Anjo 90A \n']).
+solucao('snacks6',[       '\n Panquecas
+                          \n As panquecas são um doce delicioso, que pode ser comida simples ou com diversas coberturas, como doces de fruta, chocolate ou gelado.
+                          \n 3-5
+                          \n https://ncultura.pt/wp-content/uploads/2020/08/whole-grain-pancake-stack.jpg
+                          \n 85
+                          \n Nordico
+                          \n https://webraga.pt/wp-content/uploads/2018/06/We-Braga-nordico-coffeeshop01-min.jpg
+                          \n 4.6
+                          \n R. do Anjo 90A
+                          \n O Amor Vive na Cozinha
+                          \n https://www.evasoes.pt/files/2020/10/38483559_WEB_54236161_GI17092020PJM000023_WEB.jpg
+                          \n 4.7
+                          \n Praça do Comércio, 90 \n
+                          \n APE Coffee
+                          \n https://webraga.pt/wp-content/uploads/2017/07/we-braga-ape-coffee-11.jpg
+                          \n 4.7
+                          \n R. Dom Frei Caetano Brandão 61 \n']).
+solucao('snacks6',[		'\n Banana Split
+                          \n Uma opção de lanche bem cheio.
+                          \n 2-5
+                          \n https://dicasdecasa.pt/wp-content/uploads/2020/06/banana_split.jpg
+                          \n 100
+                          \n Nut
+                          \n https://lh5.googleusercontent.com/p/AF1QipODHWIt7XXS9mYI8hBIDnn8QlDR1a_ZJXG2UUNc=w800-h800-n-k-no
+                          \n 4.2
+                          \n R. do Souto 135 \n
+                          \n Myiced
+                          \n https://d1bvpoagx8hqbg.cloudfront.net/originals/my-iced-braga-393a60dee5f80446b9f799b28dc37d2a.jpg
+                          \n 4.4
+                          \n Pça Santa Barbara 3
+                          \n Sabores Gelados
+                          \n https://www.evasoes.pt/files/2019/04/34302027_WEB_48877967_GI12092017CRISTIANAMILHAO00026_WEB-960x640_c.jpg
+                          \n 4.0
+                          \n R. do Souto Nº141/ E Largo Barão S.Martinho \n']).
 
 solucao('d1',[     ['\n Sopa de lentilha
                           \n A sopa de lentilhas é um prato típico da culinária do Oriente Médio, e pode ser composta por diferentes variedades de lentilha, o que permite uma grande gama de possibilidades para a sopa.

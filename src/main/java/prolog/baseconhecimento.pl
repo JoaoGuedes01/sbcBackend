@@ -45,31 +45,31 @@ if 'snack' and 'equilibrado' then 'lancheequilibrado'.
 if 'snack' and 'pesado' then 'lanchepesado'.
 
 % Lanche leve %
-if 'lancheleve' and 'vegan' then 'snacks2'.
-if 'lancheleve' and 'vege' then 'snack1'.
-if 'lancheleve' and 'carne' then 'snack1'.
-if 'lancheleve' and 'medite' then 'snack1'.
-if 'lancheleve' and 'peixe' then 'snack1'.
-if 'lancheleve' and 'fastfood' then 'snack1'.
-if 'lancheleve' and 'ww' then 'snack1'.
+if 'lancheleve' and 'vegan' then 'snacks5'.
+if 'lancheleve' and 'vege' then 'snacks5'.
+if 'lancheleve' and 'carne' then 'snacks4'.
+if 'lancheleve' and 'medite' then 'snacks4'.
+if 'lancheleve' and 'peixe' then 'snacks4'.
+if 'lancheleve' and 'fastfood' then 'snacks4'.
+if 'lancheleve' and 'ww' then 'snacks4'.
 
 % Lanche equilibrado %
 if 'lancheequilibrado' and 'vegan' then 'snacks2'.
-if 'lancheequilibrado' and 'vege' then 'snack1'.
-if 'lancheequilibrado' and 'carne' then 'snack1'.
-if 'lancheequilibrado' and 'medite' then 'snack1'.
-if 'lancheequilibrado' and 'peixe' then 'snack1'.
-if 'lancheequilibrado' and 'fastfood' then 'snack1'.
-if 'lancheequilibrado' and 'ww' then 'snack1'.
+if 'lancheequilibrado' and 'vege' then 'snacks2'.
+if 'lancheequilibrado' and 'carne' then 'snacks3'.
+if 'lancheequilibrado' and 'medite' then 'snacks3'.
+if 'lancheequilibrado' and 'peixe' then 'snacks3'.
+if 'lancheequilibrado' and 'fastfood' then 'snacks3'.
+if 'lancheequilibrado' and 'ww' then 'snacks3'.
 
 % Lanche pesado %
-if 'lanchepesado' and 'vegan' then 'snacks2'.
-if 'lanchepesado' and 'vege' then 'snack1'.
-if 'lanchepesado' and 'carne' then 'snack1'.
-if 'lanchepesado' and 'medite' then 'snack1'.
-if 'lanchepesado' and 'peixe' then 'snack1'.
-if 'lanchepesado' and 'fastfood' then 'snack1'.
-if 'lanchepesado' and 'ww' then 'snack1'.
+if 'lanchepesado' and 'vegan' then 'snacks6'.
+if 'lanchepesado' and 'vege' then 'snacks6'.
+if 'lanchepesado' and 'carne' then 'snacks1'.
+if 'lanchepesado' and 'medite' then 'snacks1'.
+if 'lanchepesado' and 'peixe' then 'snacks1'.
+if 'lanchepesado' and 'fastfood' then 'snacks1'.
+if 'lanchepesado' and 'ww' then 'snacks1'.
 
 
 
