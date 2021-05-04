@@ -2305,7 +2305,7 @@ solucao('snacks6',[		'\n Banana Split
                           \n 4.0
                           \n R. do Souto Nº141/ E Largo Barão S.Martinho \n']).
 
-solucao('d1',[     ['\n Sopa de lentilha
+solucao('d1',[     '\n Sopa de lentilha
                           \n A sopa de lentilhas é um prato típico da culinária do Oriente Médio, e pode ser composta por diferentes variedades de lentilha, o que permite uma grande gama de possibilidades para a sopa.
                           \n 12-16
                           \n https://www.acasaencantada.com.br/wp-content/uploads/2017/08/receita-de-sopa-de-lentilha-vermelha2-600x600.jpg
@@ -2320,8 +2320,8 @@ solucao('d1',[     ['\n Sopa de lentilha
                           \n Gosto Superior
                           \n https://www.boaescolha.pt/wp-content/uploads/2018/11/Gosto-Superior-950x556.jpg
                           \n 4.7
-                          \n Praça Mouzinho de Albuquerque 29 \n'],
-                        ['\n Ensopado de grão de bico
+                          \n Praça Mouzinho de Albuquerque 29 \n']).
+ solucao('d1',[   '\n Ensopado de grão de bico
                           \n Para um jantar nutritivo, coma um Ensopado de grão de bico!
                           \n 10-14
                           \n https://cdn.panelinha.com.br/receita/1615317909602-CP-2021-19-02_7582_receita_post.jpg
@@ -2337,5 +2337,4 @@ solucao('d1',[     ['\n Sopa de lentilha
                           \n https://lh5.googleusercontent.com/p/AF1QipMM2jabyHDpFgubu5pgdehfYIJd08tzxQXViBt8=w408-h306-k-no
                           \n 4.3
                           \n Av. Dr. Francisco Pires Gonçalves 40 \n'
-                        ]
                        ]).
