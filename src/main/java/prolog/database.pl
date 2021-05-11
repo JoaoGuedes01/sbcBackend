@@ -1685,6 +1685,300 @@ solucao('a1',[      ['\n Salada de massa e ervas vegetais
                           \n R. Nova de Santa Cruz 21 A \n'
                         ]
                        ]).
+% Almoço equilibrado vegan tomate %
+solucao('a56',['\n Refogados de Lentilhas com berinjela e pure de batatas e brocolos
+                          \n Saboroso e saudavel!
+                          \n 10-15
+                          \n https://veganandcolors.com/wp-content/uploads/2019/05/2-2-1024x787.jpg
+                          \n 100
+                          \n Hibiscus
+                          \n https://revistaspot.pt/wp-content/uploads/2020/09/hibiscus-revista-spot-ananas4-2.jpg
+                          \n 4.6
+                          \n Portugal, Largo de São Francisco 32
+                          \n UniVegetariano
+                          \n https://images.adsttc.com/media/images/5ab9/3634/f197/cc6e/5400/00b7/newsletter/0376.jpg?1522087455
+                          \n 4.9
+                          \n R. Nova de Santa Cruz 63
+                          \n Shanti - Restaurante Vegetariano | Vegano
+                          \n https://revistaspot.pt/wp-content/uploads/2019/09/shanti-2.jpg
+                          \n 4.6
+                          \n R. Nova de Santa Cruz 21 A \n']).
+solucao('a56',['\n Sopa de ervilha com quinoa e batata doce
+                          \n Saboroso e saudavel!
+                          \n 10-15
+                          \n https://veganandcolors.com/wp-content/uploads/2019/05/3-2-1024x655.jpg
+                          \n 75
+                          \n Hibiscus
+                          \n https://revistaspot.pt/wp-content/uploads/2020/09/hibiscus-revista-spot-ananas4-2.jpg
+                          \n 4.6
+                          \n Portugal, Largo de São Francisco 32
+                          \n UniVegetariano
+                          \n https://images.adsttc.com/media/images/5ab9/3634/f197/cc6e/5400/00b7/newsletter/0376.jpg?1522087455
+                          \n 4.9
+                          \n R. Nova de Santa Cruz 63
+                          \n Shanti - Restaurante Vegetariano | Vegano
+                          \n https://revistaspot.pt/wp-content/uploads/2019/09/shanti-2.jpg
+                          \n 4.6
+                          \n R. Nova de Santa Cruz 21 A \n']).       
+solucao('a56',['\n Risotto vegan
+                          \n Aproveite esta delicia!
+                          \n 10-15
+                          \n https://www.receiteria.com.br/wp-content/uploads/receitas-de-risoto-vegetariano-00-1200x738.jpg
+                          \n 75
+                          \n Hibiscus
+                          \n https://revistaspot.pt/wp-content/uploads/2020/09/hibiscus-revista-spot-ananas4-2.jpg
+                          \n 4.6
+                          \n Portugal, Largo de São Francisco 32
+                          \n UniVegetariano
+                          \n https://images.adsttc.com/media/images/5ab9/3634/f197/cc6e/5400/00b7/newsletter/0376.jpg?1522087455
+                          \n 4.9
+                          \n R. Nova de Santa Cruz 63
+                          \n Shanti - Restaurante Vegetariano | Vegano
+                          \n https://revistaspot.pt/wp-content/uploads/2019/09/shanti-2.jpg
+                          \n 4.6
+                          \n R. Nova de Santa Cruz 21 A \n']).         
+solucao('a56',['\n Cebolas recheadas com arroz
+                          \n As cebolas recheadas com arroz de lentilhas é uma refeição deliciosa e completa.
+                          \n 7.5-10
+                          \n https://www.pingodoce.pt/wp-content/uploads/2019/02/cebolas-recheadas-com-arroz.jpg
+                          \n 75
+                          \n Hibiscus
+                          \n https://revistaspot.pt/wp-content/uploads/2020/09/hibiscus-revista-spot-ananas4-2.jpg
+                          \n 4.6
+                          \n Portugal, Largo de São Francisco 32
+                          \n UniVegetariano
+                          \n https://images.adsttc.com/media/images/5ab9/3634/f197/cc6e/5400/00b7/newsletter/0376.jpg?1522087455
+                          \n 4.9
+                          \n R. Nova de Santa Cruz 63
+                          \n Shanti - Restaurante Vegetariano | Vegano
+                          \n https://revistaspot.pt/wp-content/uploads/2019/09/shanti-2.jpg
+                          \n 4.6
+                          \n R. Nova de Santa Cruz 21 A \n']).              
+solucao('a56',['\n Cebolas recheadas com arroz
+                          \n As cebolas recheadas com arroz de lentilhas é uma refeição deliciosa e completa.
+                          \n 7.5-10
+                          \n https://www.pingodoce.pt/wp-content/uploads/2019/02/cebolas-recheadas-com-arroz.jpg
+                          \n 75
+                          \n Hibiscus
+                          \n https://revistaspot.pt/wp-content/uploads/2020/09/hibiscus-revista-spot-ananas4-2.jpg
+                          \n 4.6
+                          \n Portugal, Largo de São Francisco 32
+                          \n Shanti - Restaurante Vegetariano | Vegano
+                          \n https://revistaspot.pt/wp-content/uploads/2019/09/shanti-2.jpg
+                          \n 4.6
+                          \n R. Nova de Santa Cruz 21 A
+                          \n ANJO VERDE
+                          \n https://tastebraga.com/wp-content/uploads/2017/11/anjo-1.png
+                          \n 4.4
+                          \n Largo da Praça Velha 21 \n']).   
+solucao('a56',['\n Esparguete de courgette com beterraba
+                          \n Uma refeicao vegan, facil e nutritiva preparada com courgette, spaghetti, beterraba e sementes de girassol. 
+                          \n 7.5-10
+                          \n https://www.pingodoce.pt/wp-content/uploads/2019/07/SB48_alta-277.jpg
+                          \n 75
+                          \n ANJO VERDE
+                          \n https://tastebraga.com/wp-content/uploads/2017/11/anjo-1.png
+                          \n 4.4
+                          \n Largo da Praça Velha 21
+                          \n UniVegetariano
+                          \n https://images.adsttc.com/media/images/5ab9/3634/f197/cc6e/5400/00b7/newsletter/0376.jpg?1522087455
+                          \n 4.9
+                          \n R. Nova de Santa Cruz 63
+                          \n Shanti - Restaurante Vegetariano | Vegano
+                          \n https://revistaspot.pt/wp-content/uploads/2019/09/shanti-2.jpg
+                          \n 4.6
+                          \n R. Nova de Santa Cruz 21 A \n']).    
+
+% Almoço equilibrado piscívoro tomate %
+solucao('a92',['\n Caldo de peixe
+                          \n Sirva com o pimento verde, para uma textura crocante e um toque de frescura adicional.
+                          \n 10-15
+                          \n https://www.pingodoce.pt/wp-content/uploads/2021/04/caldo-peixe.jpeg
+                          \n 100
+                          \n Taberna do Felix 
+                          \n https://webraga.pt/wp-content/uploads/2018/02/we-braga-felix-taberna-17-770x514.jpg
+                          \n 4.5
+                          \n Largo da Praca Velha 18 19
+                          \n Marisqueira Docamar
+                          \n https://media-cdn.tripadvisor.com/media/photo-s/0e/d1/dd/b5/img-20170329-202644-largejpg.jpg
+                          \n 4.3
+                          \n  R. de Baixo 32
+                          \n Restaurante O Jaco
+                          \n https://10619-2.s.cdn12.com/rests/original/407_184356106.jpg
+                          \n 4.5
+                          \n Praceta Padre Diamantino Martins 20 \n']).
+solucao('a92',['\n Salada de vieiras com molho de mostarda
+                          \n Simples, mas irresistivel, a salada de vieiras é o acompanhamento ideal para uma refeição ao ar livre num dia de Primavera.
+                          \n 10-15
+                          \n https://www.pingodoce.pt/wp-content/uploads/2021/04/Salada-de-vieiras-com-molho-de-mostarda.jpg
+                          \n 100
+                          \n Taberna do Felix 
+                          \n https://webraga.pt/wp-content/uploads/2018/02/we-braga-felix-taberna-17-770x514.jpg
+                          \n 4.5
+                          \n Largo da Praca Velha 18 19
+                          \n Marisqueira Docamar
+                          \n https://media-cdn.tripadvisor.com/media/photo-s/0e/d1/dd/b5/img-20170329-202644-largejpg.jpg
+                          \n 4.3
+                          \n  R. de Baixo 32
+                          \n Restaurante O Jaco
+                          \n https://10619-2.s.cdn12.com/rests/original/407_184356106.jpg
+                          \n 4.5
+                          \n Praceta Padre Diamantino Martins 20 \n']).
+solucao('a92',['\n Dourada com molho vilao e milho cozido
+                          \n Da Costa da Madeira para a sua mesa, esta dourada vai dar-lhe a sensacao de estar em viagem.
+                          \n 10-15
+                          \n https://www.pingodoce.pt/wp-content/uploads/2021/03/dourada-molho-vilao-milho-cozido.png
+                          \n 100
+                          \n Taberna do Felix 
+                          \n https://webraga.pt/wp-content/uploads/2018/02/we-braga-felix-taberna-17-770x514.jpg
+                          \n 4.5
+                          \n Largo da Praca Velha 18 19
+                          \n Marisqueira Docamar
+                          \n https://media-cdn.tripadvisor.com/media/photo-s/0e/d1/dd/b5/img-20170329-202644-largejpg.jpg
+                          \n 4.3
+                          \n  R. de Baixo 32
+                          \n Restaurante O Jaco
+                          \n https://10619-2.s.cdn12.com/rests/original/407_184356106.jpg
+                          \n 4.5
+                          \n Praceta Padre Diamantino Martins 20 \n']).
+solucao('a92',['\n Bacalhau com migas de feijao-frade e couve
+                          \n Um prato cheio de sabores tradicionais portugueses!
+                          \n 10-15
+                          \n https://www.pingodoce.pt/wp-content/uploads/2020/03/bacalhau-migas-feijao-frade-couve.jpg
+                          \n 100
+                          \n Taberna do Felix 
+                          \n https://webraga.pt/wp-content/uploads/2018/02/we-braga-felix-taberna-17-770x514.jpg
+                          \n 4.5
+                          \n Largo da Praca Velha 18 19
+                          \n Marisqueira Docamar
+                          \n https://media-cdn.tripadvisor.com/media/photo-s/0e/d1/dd/b5/img-20170329-202644-largejpg.jpg
+                          \n 4.3
+                          \n  R. de Baixo 32
+                          \n Restaurante O Jaco
+                          \n https://10619-2.s.cdn12.com/rests/original/407_184356106.jpg
+                          \n 4.5
+                          \n Praceta Padre Diamantino Martins 20 \n']).
+solucao('a92',['\n Cantaril com pure e molho de espumante
+                          \n Um prato ao qual ninguem fica indiferente!
+                          \n 10-15
+                          \n https://www.pingodoce.pt/wp-content/uploads/2020/10/cantaril-pure-molho-espumante.jpg
+                          \n 100
+                          \n Taberna do Felix 
+                          \n https://webraga.pt/wp-content/uploads/2018/02/we-braga-felix-taberna-17-770x514.jpg
+                          \n 4.5
+                          \n Largo da Praca Velha 18 19
+                          \n Marisqueira Docamar
+                          \n https://media-cdn.tripadvisor.com/media/photo-s/0e/d1/dd/b5/img-20170329-202644-largejpg.jpg
+                          \n 4.3
+                          \n  R. de Baixo 32
+                          \n Restaurante O Jaco
+                          \n https://10619-2.s.cdn12.com/rests/original/407_184356106.jpg
+                          \n 4.5
+                          \n Praceta Padre Diamantino Martins 20 \n']).
+solucao('a92',['\n Polvo braseado com cogumelos e pure de batata-doce
+                          \n De aspecto e sabor divinais...
+                          \n 10-15
+                          \n https://www.pingodoce.pt/wp-content/uploads/2020/09/polvo-braseado-cogumelos-pure-batata-doce.jpeg
+                          \n 100
+                          \n Taberna do Felix 
+                          \n https://webraga.pt/wp-content/uploads/2018/02/we-braga-felix-taberna-17-770x514.jpg
+                          \n 4.5
+                          \n Largo da Praca Velha 18 19
+                          \n Marisqueira Docamar
+                          \n https://media-cdn.tripadvisor.com/media/photo-s/0e/d1/dd/b5/img-20170329-202644-largejpg.jpg
+                          \n 4.3
+                          \n  R. de Baixo 32
+                          \n Restaurante O Jaco
+                          \n https://10619-2.s.cdn12.com/rests/original/407_184356106.jpg
+                          \n 4.5
+                          \n Praceta Padre Diamantino Martins 20 \n']).
+
+% Almoço carnivoro equilibrado alface que tambem serve para geral %
+solucao('a80',['\n Lombinho de porco com abacaxi
+                          \n Saboroso e ideal para as suas refeicoes em dias de semana.
+                          \n 10-15
+                          \n https://www.pingodoce.pt/wp-content/uploads/2021/04/lombinho-porco-com-abacaxi.jpeg
+                          \n 100
+                          \n Taberna do Felix 
+                          \n https://webraga.pt/wp-content/uploads/2018/02/we-braga-felix-taberna-17-770x514.jpg
+                          \n 4.5
+                          \n Largo da Praca Velha 18 19
+                          \n Restaurante Casa De Pasto Das Carvalheiras
+                          \n https://media-cdn.tripadvisor.com/media/photo-s/11/40/71/99/casa-de-pasto-das-carvalheiras.jpg
+                          \n 4.5
+                          \n Largo de Santa Cruz 10
+                          \n Restaurante O Jaco
+                          \n https://10619-2.s.cdn12.com/rests/original/407_184356106.jpg
+                          \n 4.5
+                          \n Praceta Padre Diamantino Martins 20 \n']).
+solucao('a80',['\n Pao recheado com enchidos
+                          \n Uma viagem gastronómica pelos sabores transmontanos.
+                          \n 10-15
+                          \n https://www.pingodoce.pt/wp-content/uploads/2021/03/pao-recheado-enchidos.jpeg
+                          \n 100
+                          \n Taberna do Felix 
+                          \n https://webraga.pt/wp-content/uploads/2018/02/we-braga-felix-taberna-17-770x514.jpg
+                          \n 4.5
+                          \n Largo da Praca Velha 18 19
+                          \n Restaurante Casa De Pasto Das Carvalheiras
+                          \n https://media-cdn.tripadvisor.com/media/photo-s/11/40/71/99/casa-de-pasto-das-carvalheiras.jpg
+                          \n 4.5
+                          \n Largo de Santa Cruz 10
+                          \n Restaurante O Jaco
+                          \n https://10619-2.s.cdn12.com/rests/original/407_184356106.jpg
+                          \n 4.5
+                          \n Praceta Padre Diamantino Martins 20 \n']).             
+solucao('a80',['\n Bifana
+                          \n Bifanas servem-se a qualquer dia, nao precisa de Santos Populares.
+                          \n 10-15
+                          \n https://www.pingodoce.pt/wp-content/uploads/2020/07/bifanas-pao.jpg
+                          \n 100
+                          \n Taberna do Felix 
+                          \n https://webraga.pt/wp-content/uploads/2018/02/we-braga-felix-taberna-17-770x514.jpg
+                          \n 4.5
+                          \n Largo da Praca Velha 18 19
+                          \n Restaurante Casa De Pasto Das Carvalheiras
+                          \n https://media-cdn.tripadvisor.com/media/photo-s/11/40/71/99/casa-de-pasto-das-carvalheiras.jpg
+                          \n 4.5
+                          \n Largo de Santa Cruz 10
+                          \n Restaurante O Jaco
+                          \n https://10619-2.s.cdn12.com/rests/original/407_184356106.jpg
+                          \n 4.5
+                          \n Praceta Padre Diamantino Martins 20 \n']).      
+solucao('a80',['\n Hamburguer
+                          \n Experimente e acompanhe com uma salada da sua preferencia ou umas batatinhas!
+                          \n 10-15
+                          \n https://www.pingodoce.pt/wp-content/uploads/2016/07/hamburguerdeanguscomqueijodaserra617.jpg
+                          \n 100
+                          \n Taberna do Felix 
+                          \n https://webraga.pt/wp-content/uploads/2018/02/we-braga-felix-taberna-17-770x514.jpg
+                          \n 4.5
+                          \n Largo da Praca Velha 18 19
+                          \n Restaurante Casa De Pasto Das Carvalheiras
+                          \n https://media-cdn.tripadvisor.com/media/photo-s/11/40/71/99/casa-de-pasto-das-carvalheiras.jpg
+                          \n 4.5
+                          \n Largo de Santa Cruz 10
+                          \n DeGema
+                          \n https://d1bvpoagx8hqbg.cloudfront.net/originals/hamburgueria-degema-8f9d13f55ac60c1e5319e2c50b91ee48.jpg
+                          \n 4.4
+                          \n R. Dr. Justino Cruz 90 \n']).    
+solucao('a80',['\n Perna de cabrito com mostarda e pesto de hortela
+                          \n Sinta o contraste da mostarda com o pesto numa carne tenra e suculenta.
+                          \n 10-15
+                          \n https://www.pingodoce.pt/wp-content/uploads/2020/11/perna-cabrito-mostarda-pesto-hortela.jpeg
+                          \n 100
+                          \n Taberna do Felix 
+                          \n https://webraga.pt/wp-content/uploads/2018/02/we-braga-felix-taberna-17-770x514.jpg
+                          \n 4.5
+                          \n Largo da Praca Velha 18 19
+                          \n Restaurante Casa De Pasto Das Carvalheiras
+                          \n https://media-cdn.tripadvisor.com/media/photo-s/11/40/71/99/casa-de-pasto-das-carvalheiras.jpg
+                          \n 4.5
+                          \n Largo de Santa Cruz 10
+                          \n Restaurante O Jaco
+                          \n https://10619-2.s.cdn12.com/rests/original/407_184356106.jpg
+                          \n 4.5
+                          \n Praceta Padre Diamantino Martins 20 \n']).
 % Lanche
 % Pesado Geral %
 solucao('l1',[     '\n Waffles
@@ -2305,6 +2599,8 @@ solucao('l6',[		'\n Banana Split
                           \n 4.0
                           \n R. do Souto Nº141/ E Largo Barão S.Martinho \n']).
 
+% Jandar
+% Leve geral %
 solucao('d1',[     '\n Sopa de lentilha
                           \n A sopa de lentilhas é um prato típico da culinária do Oriente Médio, e pode ser composta por diferentes variedades de lentilha, o que permite uma grande gama de possibilidades para a sopa.
                           \n 12-16
