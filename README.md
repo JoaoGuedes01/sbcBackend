@@ -1,4 +1,4 @@
-# SBC Tarefa A Backend
+# SBC Backend ( Tarefas A e B ) 
 
 Repositório da aplicação de Backend da equipa TP5-G1(Nao tenho a certeza :3).
 Esta API destina-se ao processamento de factos e devolução de uma resposta resultante de um SBC no âmbito da tarefa SmartFood.
