@@ -25,7 +25,7 @@ public class Controller {
     public ArrayList<Map<String, String>> getEncomendas(){
         String currentPath = System.getProperty("user.dir");
         currentPath = currentPath.replace("\\", "/");
-        Query consult = new Query("consult('" + currentPath + "/src/main/java/prolog/main.pl').");
+        Query consult = new Query("consult('" + currentPath + "/src/main/java/prolog/parte1/Objetivo1/main.pl').");
 
         System.out.print("consult()-> ");
         System.out.println(consult.hasSolution());
@@ -54,7 +54,7 @@ public class Controller {
         }*/
         String currentPath = System.getProperty("user.dir");
         currentPath = currentPath.replace("\\", "/");
-        Query consult = new Query("consult('" + currentPath + "/src/main/java/prolog/main.pl').");
+        Query consult = new Query("consult('" + currentPath + "/src/main/java/prolog/parte1/Objetivo1/main.pl').");
         System.out.print("consult()-> ");
         System.out.println(consult.hasSolution());
         Query query = new Query("encomendar('"+Destino+"','"+Encomenda+"','"+counter+"',"+Preco+").");
@@ -69,7 +69,7 @@ public class Controller {
     public String entregarEncomenda(@RequestParam String Id){
         String currentPath = System.getProperty("user.dir");
         currentPath = currentPath.replace("\\", "/");
-        Query consult = new Query("consult('" + currentPath + "/src/main/java/prolog/main.pl').");
+        Query consult = new Query("consult('" + currentPath + "/src/main/java/prolog/parte1/Objetivo1/main.pl').");
         System.out.print("consult()-> ");
         System.out.println(consult.hasSolution());
         Query getencomenda = new Query("encomenda(Destino,Item,Estado,'"+Id+"',Preco).");
@@ -88,7 +88,7 @@ public class Controller {
         System.out.println("---------------------------------------------------------------------------------------------------");
         String currentPath = System.getProperty("user.dir");
         currentPath = currentPath.replace("\\", "/");
-        Query consult = new Query("consult('" + currentPath + "/src/main/java/prolog/main.pl').");
+        Query consult = new Query("consult('" + currentPath + "/src/main/java/prolog/parte1/Objetivo1/main.pl').");
         System.out.print("consult()-> ");
         System.out.println(consult.hasSolution());
         Query getEncomenda = new Query("encomenda(Destino,Item,Estado,'"+Id+"',Preco).");
@@ -132,7 +132,7 @@ public class Controller {
         System.out.println("---------------------------------------------------------------------------------------------------");
         String currentPath = System.getProperty("user.dir");
         currentPath = currentPath.replace("\\", "/");
-        Query consult = new Query("consult('" + currentPath + "/src/main/java/prolog/main.pl').");
+        Query consult = new Query("consult('" + currentPath + "/src/main/java/prolog/parte1/Objetivo1/main.pl').");
         System.out.print("consult()-> ");
         System.out.println(consult.hasSolution());
         Query getEncomenda = new Query("encomenda(Destino,Item,Estado,'"+Id+"',Preco).");
@@ -176,7 +176,7 @@ public class Controller {
         System.out.println("---------------------------------------------------------------------------------------------------");
         String currentPath = System.getProperty("user.dir");
         currentPath = currentPath.replace("\\", "/");
-        Query consult = new Query("consult('" + currentPath + "/src/main/java/prolog/main.pl').");
+        Query consult = new Query("consult('" + currentPath + "/src/main/java/prolog/parte1/Objetivo1/main.pl').");
         System.out.print("consult()-> ");
         System.out.println(consult.hasSolution());
         Query getEncomenda = new Query("encomenda(Destino,Item,Estado,'"+Id+"',Preco).");
