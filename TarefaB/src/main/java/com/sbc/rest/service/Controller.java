@@ -483,7 +483,7 @@ public class Controller {
         HashMap<String, String> json = new HashMap<>();
         json.put("Sol",initialSol);
         json.put("StochasticHillCLimbing",hcSol);
-        json.put("Lucro",evalSol);
+        json.put("Tempo",evalSol);
         return json;
     }
 
@@ -506,7 +506,7 @@ public class Controller {
         HashMap<String, String> json = new HashMap<>();
         json.put("Sol",initialSol);
         json.put("HillCLimbing",hcSol);
-        json.put("0.8*lucro+0.2*(20-tempo)",evalSol);
+        json.put("formula",evalSol);
         return json;
     }
 
@@ -529,7 +529,7 @@ public class Controller {
         HashMap<String, String> json = new HashMap<>();
         json.put("Sol",initialSol);
         json.put("StochasticHillCLimbing",hcSol);
-        json.put("Lucro",evalSol);
+        json.put("formula",evalSol);
         return json;
     }
 }
