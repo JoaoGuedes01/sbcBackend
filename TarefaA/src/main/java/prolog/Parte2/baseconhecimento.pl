@@ -51,3 +51,4 @@ if 'jantar' and 'equilibrado' and 'carne' and 'alface' and 'medio' then 'j80'.
 
 
 
+
