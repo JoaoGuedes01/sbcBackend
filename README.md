@@ -17,7 +17,6 @@
   - [Pré-requisitos <a name = "pre1"></a>](#pré-requisitos-)
 - [Getting started <a name = "getting1"></a>](#getting-started-)
   - [Quick-start <a name = "quick1"></a>](#quick-start-)
-    - [Start your application ....](#start-your-application-)
   - [Installation  <a name = "install1"></a>](#installation--)
     - [Add SWI-Prolog to the PATH environment variable](#add-swi-prolog-to-the-path-environment-variable)
     - [Clone the repo](#clone-the-repo)
